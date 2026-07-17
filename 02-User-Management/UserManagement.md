@@ -60,6 +60,20 @@ Enter the user's profile information, including **Job title** and **Department**
 
 ---
 
+### 6. Reset a User Password
+
+1. Navigate to **Users** → **Active users**.
+2. Select **John Smith**.
+3. Click **Reset password**.
+4. Choose one of the following options:
+   - **Automatically create a password**, or
+   - **Create password manually**.
+5. Enable **Require this user to change their password when they first sign in**.
+6. Click **Reset password**.
+
+![Reset User Password](screenshots/06-reset-password.png)
+
+
 
 
 
