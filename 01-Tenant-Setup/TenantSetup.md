@@ -73,7 +73,7 @@ The default onmicrosoft.com domain is automatically assigned during tenant provi
 
 ---
 
-### 4. Review Licence
+### 4. Review Licences
 
 Navigate to:
 
@@ -85,6 +85,8 @@ Verify:
 - Available licenses
 - Assigned licenses
 - License type
+
+Reviewing available licenses confirms which Microsoft 365 services can be assigned to users.
 
 ![Licence](screenshots/04-licence.png)
 
