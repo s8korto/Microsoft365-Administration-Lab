@@ -122,6 +122,15 @@ Example services include:
 
 ![Remove License](screenshots/05-remove-license.png)
 
+---
+
+# Key Takeaways
+
+- A single license can include multiple Microsoft 365 applications.
+- Individual services can be enabled or disabled without removing the entire license.
+- Licenses can be assigned to one user or multiple users simultaneously.
+- Administrators should regularly monitor license availability to ensure sufficient capacity.
+
 
 
 
