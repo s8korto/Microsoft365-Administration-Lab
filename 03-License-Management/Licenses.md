@@ -97,6 +97,13 @@ Example services include:
 4. Remove the Microsoft 365 Business Premium license.
 5. Save the changes.
 
+### Verification
+
+- User displays **Unlicensed**.
+- Available license count increases.
+
+![Remove License](screenshots/05-remove-license.png)
+
 
 
 
