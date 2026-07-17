@@ -14,3 +14,13 @@ This lab demonstrates how to manage Microsoft 365 licenses by viewing available 
 2. Navigate to **Billing** → **Licenses**.
 3. Review the available subscriptions.
 4. Note the total, assigned, and available licenses.
+
+### Verification
+
+- Microsoft 365 Business Premium is listed.
+- License counts are displayed correctly.
+
+```
+![View Licenses](screenshots/01-view-licenses.png)
+```
+
