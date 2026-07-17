@@ -6,7 +6,7 @@ This lab demonstrates how to manage Microsoft 365 licenses by viewing available 
 
 ---
 
-# Lab 1 - View Available Licenses
+## Lab 1 - View Available Licenses
 
 ### Steps
 
@@ -22,4 +22,16 @@ This lab demonstrates how to manage Microsoft 365 licenses by viewing available 
 
 
 ![View Licenses](screenshots/01-view-licenses.png)
+
+---
+
+## Lab 2 - Assign a License
+
+### Steps
+
+1. Navigate to **Users** → **Active users**.
+2. Select a user.
+3. Click **Licenses and apps**.
+4. Enable **Microsoft 365 Business Premium**.
+5. Click **Save changes**.
 
