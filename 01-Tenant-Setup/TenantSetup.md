@@ -106,6 +106,15 @@ The following sections were reviewed:
 
 ---
 
+## Verification
+
+Successfully confirmed:
+
+- Tenant created
+- Global Administrator account available
+- Admin Center accessible
+- Default domain verified
+- Licenses available
 
 
 
