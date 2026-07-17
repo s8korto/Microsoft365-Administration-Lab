@@ -29,7 +29,7 @@ This lab demonstrates on how to manage Microsoft 365 users by creating accounts,
 1. Select the Microsoft 365 license you want to assign to the user.
 2. Click **Next**.
 
-![Assign License](screenshots/02-license.png)
+![Assign License](screenshots/02-licence.png)
 
 ---
 
