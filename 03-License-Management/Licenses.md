@@ -61,4 +61,10 @@ Example services include:
 - Microsoft Defender
 - Microsoft Intune
 
+### Verification
+
+- All licensed services are displayed.
+
+![License Apps](screenshots/03-license-apps.png)
+
 
