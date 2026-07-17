@@ -113,6 +113,15 @@ Enter the user's profile information, including **Job title** and **Department**
 
 ---
 
+### 10. Delete a User
+
+1. Navigate to **Users** → **Active users**.
+2. Select **John Smith**.
+3. Click **Delete user**.
+4. Confirm the deletion.
+
+![Delete User](screenshots/10-delete-user.png)
+
 
 
 
