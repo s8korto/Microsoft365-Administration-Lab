@@ -146,6 +146,17 @@ Verify that you can:
 - Block and unblock user sign-in
 - Delete and restore a user account
 
+---
+
+## Key Takeaways
+
+- Created and managed Microsoft 365 user accounts.
+- Assigned Microsoft 365 licenses.
+- Updated user profile and contact information.
+- Reset user passwords securely.
+- Blocked and restored user sign-in.
+- Deleted and restored user accounts.
+
 
 
 
