@@ -35,3 +35,11 @@ This lab demonstrates how to manage Microsoft 365 licenses by viewing available 
 4. Enable **Microsoft 365 Business Premium**.
 5. Click **Save changes**.
 
+### Verification
+
+- User status displays **Licensed**.
+- Assigned license count increases.
+
+![Assign Licenses](screenshots/02-assign-licenses.png)
+
+
