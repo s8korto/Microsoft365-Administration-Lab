@@ -41,6 +41,14 @@ Enter the user's profile information, including **Job title** and **Department**
 
 ---
 
+### 4. Review and Complete User Creation
+
+1. Review the user details and assigned settings.
+2. Click **Finish adding** to create the user.
+
+![Review and Complete User Creation](screenshots/04-complete-user.png)
+
+---
 
 
 
