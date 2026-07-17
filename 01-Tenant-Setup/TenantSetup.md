@@ -67,6 +67,8 @@ Verify:
 - Domain status is Healthy.
 - Domain type is Microsoft-managed.
 
+The default onmicrosoft.com domain is automatically assigned during tenant provisioning and is required for user accounts and Microsoft 365 services.
+
 ![Domain](screenshots/03-domain.png)
 
 ---
