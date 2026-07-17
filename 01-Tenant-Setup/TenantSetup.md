@@ -19,14 +19,13 @@ This tenant serves as the foundation for managing users, licenses, security poli
 
 ## Steps
 
-### 1. Create a Microsoft 365 Tenant
+### 1. Configure a Microsoft 365 Business Tenant
 
-1. Sign in to the Microsoft 365 Admin Center.
-2. Create a new tenant.
-3. Choose a tenant name.
-4. Select your region.
-5. Complete verification.
-6. Sign in with the Global Administrator account.
+1. Signed up for Microsoft 365 Business.
+2. Entered the organisation name.
+3. Selected the tenant name.
+4. Completed identity verification.
+5. Signed in as the Global Administrator.
 
 ![Tenant Dashboard](screenshots/01-tenant-dashboard.png)
 
