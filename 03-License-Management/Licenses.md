@@ -67,4 +67,16 @@ Example services include:
 
 ![License Apps](screenshots/03-license-apps.png)
 
+---
+
+## Lab 4 - Disable a Service
+
+### Steps
+
+1. Open **Licenses and apps**.
+2. Expand the Microsoft 365 Business Premium license.
+3. Disable **Microsoft Teams**.
+4. Click **Save changes**.
+
+
 
