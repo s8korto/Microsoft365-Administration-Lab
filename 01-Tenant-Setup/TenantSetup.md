@@ -89,6 +89,24 @@ Verify:
 
 ---
 
+### 5. Explore the Microsoft 365 Admin Center
+
+After provisioning the tenant, I explored the Microsoft 365 Admin Center to become familiar with the administrative interface and available management areas.
+
+The following sections were reviewed:
+
+- Home
+- Users
+- Teams & Groups
+- Billing
+- Reports
+- Health
+- Settings
+- Admin Centers
+
+---
+
+
 
 
 
