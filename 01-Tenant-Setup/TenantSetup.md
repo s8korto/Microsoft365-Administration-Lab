@@ -8,3 +8,13 @@ This tenant serves as the foundation for managing users, licenses, security poli
 
 ---
 
+## Prerequisites
+
+- Microsoft 365 Developer Tenant or Trial Tenant
+- Internet connection
+- Administrator account
+- Web browser
+
+---
+
+
