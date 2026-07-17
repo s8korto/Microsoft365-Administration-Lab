@@ -78,5 +78,13 @@ Example services include:
 3. Disable **Microsoft Teams**.
 4. Click **Save changes**.
 
+### Verification
+
+- Teams is disabled.
+- Other Microsoft 365 services remain enabled.
+
+![Disable Teams](screenshots/04-disable-teams.png)
+
+
 
 
