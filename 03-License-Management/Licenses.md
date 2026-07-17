@@ -42,4 +42,14 @@ This lab demonstrates how to manage Microsoft 365 licenses by viewing available 
 
 ![Assign Licenses](screenshots/02-assign-license.png)
 
+---
+
+## Lab 3 - View Included Apps
+
+### Steps
+
+1. Select the licensed user.
+2. Open **Licenses and apps**.
+3. Review the available Microsoft 365 services.
+
 
