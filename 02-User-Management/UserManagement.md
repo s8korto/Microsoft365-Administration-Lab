@@ -85,6 +85,19 @@ Enter the user's profile information, including **Job title** and **Department**
 
 ![Update User Information](screenshots/07-update-user-information.png)
 
+---
+
+### 8. Block a User Sign-in
+
+1. Navigate to **Users** → **Active users**.
+2. Select **John Smith**.
+3. Click **Block sign-in**.
+4. Enable **Block this user from signing in**.
+5. Click **Save changes**.
+6. Verify that the user's sign-in status has been updated.
+
+![Block User Sign-in](screenshots/08-block-sign-in.png)
+
 
 
 
