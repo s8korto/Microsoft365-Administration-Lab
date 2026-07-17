@@ -104,6 +104,18 @@ Example services include:
 
 ![Remove License](screenshots/05-remove-license.png)
 
+---
+
+## Lab 6 - Bulk License Assignment
+
+### Steps
+
+1. Navigate to **Users** → **Active users**.
+2. Select multiple users.
+3. Click **Manage product licenses**.
+4. Choose **Assign more**.
+5. Select Microsoft 365 Business Premium.
+6. Save the changes.
 
 
 
