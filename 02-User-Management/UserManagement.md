@@ -122,6 +122,17 @@ Enter the user's profile information, including **Job title** and **Department**
 
 ![Delete User](screenshots/10-delete-user.png)
 
+---
+
+### 11. Restore a Deleted User
+
+1. Navigate to **Users** → **Deleted users**.
+2. Select **John Smith**.
+3. Click **Restore user**.
+4. Verify that the user account has been restored and appears in **Users** → **Active users**.
+
+![Restore Deleted User](screenshots/11-restore-user.png)
+
 
 
 
