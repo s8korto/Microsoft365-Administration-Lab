@@ -50,6 +50,20 @@ Enter the user's profile information, including **Job title** and **Department**
 
 ---
 
+### 5. Verify User Creation
+
+1. Navigate to **Users** → **Active users**.
+2. Confirm that **John Smith** appears in the user list.
+3. Select the user to verify the assigned license and account details.
+
+![Verify User Creation](screenshots/05-verify-user.png)
+
+---
+
+
+
+
+
 
 
 
