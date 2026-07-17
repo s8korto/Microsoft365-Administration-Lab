@@ -70,6 +70,25 @@ Verify:
 
 ![Domain](screenshots/03-domain.png)
 
+---
+
+### 4. Review Licence
+
+Navigate to:
+
+Billing
+→ Licenses
+
+Verify:
+
+- Available licenses
+- Assigned licenses
+- License type
+
+![Licence](screenshots/04-licence.png)
+
+---
+
 
 
 
