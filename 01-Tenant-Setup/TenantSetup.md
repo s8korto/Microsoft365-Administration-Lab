@@ -53,5 +53,24 @@ Verified:
 
 ![Organisation Information](screenshots/02-organisation-information.png)
 
+---
+
+### 3. Verify Default Domain
+
+Navigation:
+
+Settings
+→ Domains
+
+Verify:
+
+- Default domain exists.
+- Domain status is Healthy.
+- Domain type is Microsoft-managed.
+
+![Domain](screenshots/03-domain.png)
+
+
+
 
 
