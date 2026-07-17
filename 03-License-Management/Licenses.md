@@ -52,4 +52,13 @@ This lab demonstrates how to manage Microsoft 365 licenses by viewing available 
 2. Open **Licenses and apps**.
 3. Review the available Microsoft 365 services.
 
+Example services include:
+
+- Exchange Online
+- Microsoft Teams
+- OneDrive
+- SharePoint
+- Microsoft Defender
+- Microsoft Intune
+
 
