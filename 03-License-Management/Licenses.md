@@ -40,6 +40,6 @@ This lab demonstrates how to manage Microsoft 365 licenses by viewing available 
 - User status displays **Licensed**.
 - Assigned license count increases.
 
-![Assign Licenses](screenshots/02-assign-licenses.png)
+![Assign Licenses](screenshots/02-assign-license.png)
 
 
