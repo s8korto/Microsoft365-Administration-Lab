@@ -73,6 +73,18 @@ Enter the user's profile information, including **Job title** and **Department**
 
 ![Reset User Password](screenshots/06-reset-password.png)
 
+---
+
+### 7. Update User Information
+
+1. Navigate to **Users** → **Active users**.
+2. Select **John Smith**.
+3. Open the section you want to update (for example, **Contact information**, **Username and email**, or **Licenses and apps**).
+4. Modify the required information.
+5. Click **Save**.
+
+![Update User Information](screenshots/07-update-user-information.png)
+
 
 
 
