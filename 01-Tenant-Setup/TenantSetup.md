@@ -30,6 +30,28 @@ This tenant serves as the foundation for managing users, licenses, security poli
 
 ![Tenant Dashboard](screenshots/01-tenant-dashboard.png)
 
+---
+
+### 2. Verify Organization Information
+
+After completing the Microsoft 365 Business setup, I verified the tenant configuration in the Microsoft 365 Admin Center.
+
+Navigation:
+
+Settings
+→ Org settings
+→ Organization profile
+→ Organization information
+
+Verified:
+
+- Organization information is accessible.
+- Default tenant domain is configured.
+- Tenant ID is assigned.
+- Technical contact email is configured.
+- Preferred language is configured.
+
+![Organisation Information](screenshots/02-organisation-information.png)
 
 
 
