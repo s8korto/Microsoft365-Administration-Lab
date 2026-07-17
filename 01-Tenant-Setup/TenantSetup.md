@@ -129,6 +129,19 @@ Successfully confirmed:
 - Reviewed available licenses.
 - Confirmed administrative access.
 
+---
+
+## Next Steps
+
+The tenant has now been configured and verified.
+
+The next stage of the lab focuses on:
+
+- Creating users
+- Managing passwords
+- Assigning licenses
+- Creating security groups
+
 
 
 
