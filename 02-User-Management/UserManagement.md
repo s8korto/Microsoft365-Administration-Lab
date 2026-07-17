@@ -133,6 +133,19 @@ Enter the user's profile information, including **Job title** and **Department**
 
 ![Restore Deleted User](screenshots/11-restore-user.png)
 
+---
+
+## Verification
+
+Verify that you can:
+
+- Create a Microsoft 365 user
+- Assign a Microsoft 365 license
+- Update user profile information
+- Reset a user's password
+- Block and unblock user sign-in
+- Delete and restore a user account
+
 
 
 
