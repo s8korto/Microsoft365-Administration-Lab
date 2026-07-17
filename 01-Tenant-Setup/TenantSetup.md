@@ -116,6 +116,16 @@ Successfully confirmed:
 - Default domain verified
 - Licenses available
 
+---
+
+## Key Takeaways
+
+- Created a Microsoft 365 tenant.
+- Verified the default domain.
+- Explored the Microsoft 365 Admin Center.
+- Reviewed available licenses.
+- Confirmed administrative access.
+
 
 
 
