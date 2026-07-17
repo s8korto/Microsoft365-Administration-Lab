@@ -33,6 +33,15 @@ This lab demonstrates on how to manage Microsoft 365 users by creating accounts,
 
 ---
 
+### 3. Configure User Profile
+
+Enter the user's profile information, including **Job title** and **Department**. These fields are optional and can be updated later. Click **Next** to continue.
+
+![Configure User Profile](screenshots/03-assign-role.png)
+
+---
+
+
 
 
 
