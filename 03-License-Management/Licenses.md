@@ -85,6 +85,19 @@ Example services include:
 
 ![Disable Teams](screenshots/04-disable-teams.png)
 
+---
+
+## Lab 5 - Remove a License
+
+### Steps
+
+1. Navigate to **Users** → **Active users**.
+2. Select the licensed user.
+3. Open **Licenses and apps**.
+4. Remove the Microsoft 365 Business Premium license.
+5. Save the changes.
+
+
 
 
 
