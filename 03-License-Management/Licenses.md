@@ -110,12 +110,18 @@ Example services include:
 
 ### Steps
 
-1. Navigate to **Users** → **Active users**.
-2. Select multiple users.
-3. Click **Manage product licenses**.
-4. Choose **Assign more**.
-5. Select Microsoft 365 Business Premium.
-6. Save the changes.
+1. Go to Billing → Licenses.
+2. Select Microsoft 365 Business Standard.
+3. Look for Assign licenses.
+4. Select Microsoft 365 Business Premium.
+5. Add users from there.
+
+### Verification
+
+- All selected users receive a license.
+
+![Remove License](screenshots/05-remove-license.png)
+
 
 
 
