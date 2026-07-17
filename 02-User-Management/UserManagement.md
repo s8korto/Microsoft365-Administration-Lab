@@ -98,6 +98,20 @@ Enter the user's profile information, including **Job title** and **Department**
 
 ![Block User Sign-in](screenshots/08-block-sign-in.png)
 
+---
+
+### 9. Unblock a User Sign-in
+
+1. Navigate to **Users** → **Active users**.
+2. Select **John Smith**.
+3. Click **Unblock sign-in**.
+4. Disable **Block this user from signing in**.
+5. Click **Save changes**.
+6. Verify that the user can sign in again.
+
+![Unblock User Sign-in](screenshots/09-unblock-sign-in.png)
+
+---
 
 
 
