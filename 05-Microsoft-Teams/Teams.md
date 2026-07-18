@@ -44,4 +44,16 @@ This lab demonstrates how to administer Microsoft Teams by creating teams, manag
 
 ![Team Member](screenshots/03-team-members.png)
 
+---
 
+### 4. Create Channels
+
+Create the following standard channels:
+
+- Help Desk
+- Projects
+- Announcements
+    
+The default **General** channel is created automatically.
+
+![Channel](screenshots/04-channels.png)
