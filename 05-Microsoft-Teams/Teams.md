@@ -141,3 +141,14 @@ Add only the Administrator account.
 Verify that other members cannot access the channel.
 
 ![Private Channel](screenshots/08-private-channel.png)
+
+---
+
+### 9. Archive and Restore the Team
+
+1. Select the Team.
+2. Choose **Archive Team**.
+3. Verify the team becomes read-only.
+4. Restore the team.
+
+![Archive Team](screenshots/09-archive-team.png)
