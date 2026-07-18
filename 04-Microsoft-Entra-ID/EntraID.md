@@ -104,5 +104,12 @@ Confirm the available administrator roles are displayed.
 3. Open **Authentication methods**.
 4. Review the available authentication options.
 
+## Verification
+
+Confirm the user's authentication methods are displayed.
+
+![Authentication](screenshots/05-Authentication.png)
+
+
 
 
