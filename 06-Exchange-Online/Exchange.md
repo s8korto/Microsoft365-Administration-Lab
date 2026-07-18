@@ -20,3 +20,22 @@ This lab demonstrates how to perform common Microsoft Exchange Online administra
 - Existing user mailboxes were visible.
 
 ![Exchange Admin Center](screenshots/01-Exchange-Admin-Center.png)
+
+---
+
+### 2. Verify User Mailboxes
+
+1. Navigate to **Recipients → Mailboxes**.
+2. Confirm that licensed users have Exchange mailboxes.
+3. Review mailbox properties including:
+   - Email addresses
+   - Mailbox usage
+   - Mailbox delegation
+   - Mail flow settings
+
+### Verification
+
+- User mailboxes were successfully displayed.
+- Mailbox information was accessible.
+
+![Mailboxes](screenshots/02-Mailboxes.png)
