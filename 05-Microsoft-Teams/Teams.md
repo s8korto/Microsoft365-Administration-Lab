@@ -57,3 +57,40 @@ Create the following standard channels:
 The default **General** channel is created automatically.
 
 ![Channel](screenshots/04-channels.png)
+
+---
+
+### 5. Post Messages
+
+Create sample conversations in each channel.
+
+For Example:
+
+**General**
+
+```
+Welcome to the IT Support Team.
+```
+
+**Help Desk**
+
+```
+Ticket #1001
+Printer issue
+Assigned to Administrator
+```
+
+**Projects**
+
+```
+Microsoft 365 Administration Lab
+Status: In Progress
+```
+
+**Announcements**
+
+```
+Maintenance scheduled this Friday.
+```
+
+![Channel Posts](screenshots/05-channel-posts.png)
