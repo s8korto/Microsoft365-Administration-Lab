@@ -125,6 +125,12 @@ Confirm the user's authentication methods are displayed.
    - IP Address
    - Time
 
+## Verification
+
+Confirm sign-in logs are available.
+
+![SignInLogs](screenshots/06-SignInLogs.png)
+
 
 
 
