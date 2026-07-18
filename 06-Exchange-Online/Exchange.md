@@ -152,3 +152,13 @@ This lab demonstrates how to perform common Microsoft Exchange Online administra
 - Email delivery status could be reviewed for troubleshooting purposes.
 
 ![Message Trace](screenshots/09-Message-Trace.png)
+
+---
+
+## Key Takeaways
+
+- Managed **user mailboxes** and **shared mailboxes** for organizational email services.
+- Configured **mailbox permissions** using **Full Access** and **Send As** delegation.
+- Created and managed **distribution lists** and **mail contacts** for efficient email communication.
+- Configured **mail forwarding** and **Automatic Replies (Out of Office)** to support business continuity.
+- Used **Message Trace** to troubleshoot and verify email delivery.
