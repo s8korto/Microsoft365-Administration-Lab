@@ -34,3 +34,14 @@ This lab demonstrates how to administer Microsoft Teams by creating teams, manag
 
 ![Create Teams](screenshots/02-create-team.png)
 
+---
+
+### 3. Add Team Members
+
+1. Add the Test User to the team.
+2. Leave the Administrator account as the Team Owner.
+3. Verify both users appear in the Members list.
+
+![Team Member](screenshots/03-team-members.png)
+
+
