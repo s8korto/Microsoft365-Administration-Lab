@@ -87,3 +87,19 @@ This lab demonstrates how to perform common Microsoft Exchange Online administra
 - Members were added successfully.
 
 ![Distribution List](screenshots/05-Distribution-List.png)
+
+---
+
+### 6. Configure Mail Forwarding
+
+1. Open a user mailbox.
+2. Select **Mail flow settings**.
+3. Configure email forwarding to another internal mailbox.
+4. Save the configuration.
+
+### Verification
+
+- Mail forwarding was enabled successfully.
+- Emails sent to the original mailbox were automatically forwarded to the destination mailbox.
+
+![Mail Forwarding](screenshots/06-Mail-Forwarding.png)
