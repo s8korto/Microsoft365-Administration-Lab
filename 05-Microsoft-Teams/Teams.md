@@ -152,3 +152,12 @@ Verify that other members cannot access the channel.
 4. Restore the team.
 
 ![Archive Team](screenshots/09-archive-team.png)
+
+---
+
+## Key Takeaways
+
+- Microsoft Teams is Microsoft's collaboration platform for communication, meetings, file sharing, and teamwork.
+- Teams can be configured as either Public or Private depending on business requirements.
+- Team Owners manage membership, permissions, and settings.
+- Channels organize conversations by topic or department.
