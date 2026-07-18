@@ -67,3 +67,9 @@ Confirm the user information is displayed correctly.
 4. Click **Create**.
 5. Add existing users as members.
 
+## Verification
+
+Confirm the group has been created and members have been added.
+
+![Security Group](screenshots/03-SecurityGroup.png)
+
