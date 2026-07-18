@@ -148,16 +148,6 @@ Confirm enterprise applications are displayed.
 
 ---
 
-## Lab 8 - Review Tenant Information
-
-### Steps
-
-1. Return to **Overview**.
-2. Review:
-   - Tenant Name
-   - Tenant ID
-   - Primary Domain
-   - License Information
 
 
 
