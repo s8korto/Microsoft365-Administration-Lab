@@ -103,3 +103,21 @@ This lab demonstrates how to perform common Microsoft Exchange Online administra
 - Emails sent to the original mailbox were automatically forwarded to the destination mailbox.
 
 ![Mail Forwarding](screenshots/06-Mail-Forwarding.png)
+
+---
+
+### 7. Configure Automatic Replies
+
+1. Open a user mailbox.
+2. Select **Manage automatic replies**.
+3. Enable **Automatic Replies**.
+4. Configure the start and end dates.
+5. Create an internal and external Out of Office message.
+6. Save the configuration.
+
+### Verification
+
+- Automatic Replies were successfully enabled.
+- Out of Office messages were configured for internal and external senders.
+
+![Automatic Replies](screenshots/07-Automatic-Replies.png)
