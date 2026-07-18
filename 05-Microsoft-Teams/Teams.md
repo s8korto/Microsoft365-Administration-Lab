@@ -94,3 +94,15 @@ Maintenance scheduled this Friday.
 ```
 
 ![Channel Posts](screenshots/05-channel-posts.png)
+
+---
+
+### 6. Manage Team Roles
+
+1. Open **Manage team**.
+2. Promote the Test User to **Owner**.
+3. Change the user back to **Member**.
+
+This demonstrates role management within Microsoft Teams.
+
+![Manage Members](screenshots/06-manage-members.png)
