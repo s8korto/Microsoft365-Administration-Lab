@@ -110,6 +110,22 @@ Confirm the user's authentication methods are displayed.
 
 ![Authentication](screenshots/05-Authentication.png)
 
+---
+
+## Lab 6 - View Sign-in Logs
+
+### Steps
+
+1. Navigate to **Monitoring** → **Sign-in logs**.
+2. Review recent sign-in activity.
+3. Observe:
+   - User
+   - Status
+   - Application
+   - IP Address
+   - Time
+
+
 
 
 
