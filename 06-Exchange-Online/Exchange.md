@@ -42,7 +42,7 @@ This lab demonstrates how to perform common Microsoft Exchange Online administra
 
 ---
 
-## 3. Create a Shared Mailbox
+### 3. Create a Shared Mailbox
 
 1. Navigate to **Recipients → Mailboxes**.
 2. Select **Add a shared mailbox**.
@@ -58,7 +58,7 @@ This lab demonstrates how to perform common Microsoft Exchange Online administra
 
 ---
 
-## 4. Create a Mail Contact
+### 4. Create a Mail Contact
 
 1. Navigate to **Recipients → Contacts**.
 2. Select **Add a mail contact**.
@@ -70,3 +70,20 @@ This lab demonstrates how to perform common Microsoft Exchange Online administra
 - External mail contact appeared in the Contacts list.
 
 ![Mail Contact](screenshots/04-Mail-Contact.png)
+
+---
+
+### 5. Create a Distribution List
+
+1. Navigate to **Recipients → Groups**.
+2. Create a new **Distribution List** named **All Staff**.
+3. Assign yourself as the owner.
+4. Add multiple users as members.
+5. Save the group.
+
+### Verification
+
+- Distribution List was created successfully.
+- Members were added successfully.
+
+![Distribution List](screenshots/05-Distribution-List.png)
