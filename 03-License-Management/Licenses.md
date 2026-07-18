@@ -120,7 +120,7 @@ Example services include:
 
 - All selected users receive a license.
 
-![Remove License](screenshots/05-remove-license.png)
+![Bulk License](screenshots/06-bulk-license.png)
 
 ---
 
