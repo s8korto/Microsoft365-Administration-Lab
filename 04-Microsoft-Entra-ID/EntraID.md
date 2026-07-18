@@ -93,4 +93,16 @@ Confirm the available administrator roles are displayed.
 
 ![Roles](screenshots/04-Roles.png)
 
+---
+
+## Lab 5 - View Authentication Methods
+
+### Steps
+
+1. Navigate to **Users**.
+2. Select an existing user.
+3. Open **Authentication methods**.
+4. Review the available authentication options.
+
+
 
