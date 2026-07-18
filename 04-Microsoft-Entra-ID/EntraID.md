@@ -87,3 +87,10 @@ Confirm the group has been created and members have been added.
    - Helpdesk Administrator
 3. Review each role's permissions.
 
+## Verification
+
+Confirm the available administrator roles are displayed.
+
+![Roles](screenshots/04-Roles.png)
+
+
