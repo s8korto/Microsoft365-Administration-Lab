@@ -146,6 +146,19 @@ Confirm enterprise applications are displayed.
 
 ![Enterprise Application](screenshots/07-EnterpriseApplications.png)
 
+---
+
+## Lab 8 - Review Tenant Information
+
+### Steps
+
+1. Return to **Overview**.
+2. Review:
+   - Tenant Name
+   - Tenant ID
+   - Primary Domain
+   - License Information
+
 
 
 
