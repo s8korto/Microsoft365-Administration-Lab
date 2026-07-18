@@ -16,3 +16,21 @@ This lab demonstrates how to administer Microsoft Teams by creating teams, manag
 
 ![Open Teams](screenshots/01-open-teams.png)
 
+---
+
+### 2. Create a New Team
+
+1. Click **Create team**.
+2. Select **From scratch**.
+3. Choose **Private**.
+4. Enter the following details:
+
+| Setting | Value |
+|----------|-------|
+| Team Name | IT Support |
+| Description | Internal IT Support Team |
+
+5. Click **Create**.
+
+![Create Teams](screenshots/02-create-team.png)
+
