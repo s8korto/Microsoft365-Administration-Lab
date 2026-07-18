@@ -148,6 +148,13 @@ Confirm enterprise applications are displayed.
 
 ---
 
+# Key Takeaways
+
+- Microsoft Entra ID is the identity and access management service for Microsoft 365.
+- Users, groups, and administrator roles are centrally managed through Entra ID.
+- Security groups simplify permission management.
+- Authentication methods and sign-in logs help secure user accounts and troubleshoot access issues.
+- Enterprise Applications provide centralised management of applications integrated with Microsoft Entra ID.
 
 
 
