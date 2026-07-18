@@ -55,3 +55,18 @@ This lab demonstrates how to perform common Microsoft Exchange Online administra
 - Assigned users were granted mailbox access and Send As permissions.
 
 ![Shared Mailbox](screenshots/03-Shared-Mailbox.png)
+
+---
+
+## 4. Create a Mail Contact
+
+1. Navigate to **Recipients → Contacts**.
+2. Select **Add a mail contact**.
+3. Create a contact using an external email address.
+4. Save the configuration.
+
+### Verification
+
+- External mail contact appeared in the Contacts list.
+
+![Mail Contact](screenshots/04-Mail-Contact.png)
