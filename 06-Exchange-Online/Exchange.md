@@ -121,3 +121,19 @@ This lab demonstrates how to perform common Microsoft Exchange Online administra
 - Out of Office messages were configured for internal and external senders.
 
 ![Automatic Replies](screenshots/07-Automatic-Replies.png)
+
+---
+
+### 8. Configure Mailbox Delegation
+
+1. Open the shared mailbox.
+2. Select **Mailbox delegation**.
+3. Assign **Full Access** permissions.
+4. Assign **Send As** permissions.
+5. Save the configuration.
+
+### Verification
+
+- Delegated users successfully received Full Access and Send As permissions.
+
+![Mailbox Delegation](screenshots/08-Mailbox-Delegation.png)
