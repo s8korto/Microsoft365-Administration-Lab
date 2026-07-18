@@ -13,3 +13,11 @@ This lab demonstrates how to use Microsoft Entra ID to manage identities, securi
 
 ---
 
+
+## Lab 1 - Access Microsoft Entra Admin Center
+
+## Steps
+
+1. Sign in to the Microsoft 365 Admin Center.
+2. Select **Admin centersc**.
+3. Click **Identity** to open Microsoft Entra Admin Center.
