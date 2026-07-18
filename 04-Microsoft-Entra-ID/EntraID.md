@@ -47,3 +47,23 @@ Verify the Microsoft Entra dashboard is displayed.
 Confirm the user information is displayed correctly.
 
 ![All Users](screenshots/02-AllUsers.png)
+
+---
+
+## Lab 3 - Create a Security Group
+
+### Steps
+
+1. Navigate to **Groups** → **All groups**.
+2. Click **New group**.
+3. Configure the following:
+
+| Setting | Value |
+|----------|-------|
+| Group Type | Security |
+| Group Name | IT Support |
+| Membership Type | Assigned |
+
+4. Click **Create**.
+5. Add existing users as members.
+
