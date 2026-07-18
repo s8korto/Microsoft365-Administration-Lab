@@ -137,3 +137,18 @@ This lab demonstrates how to perform common Microsoft Exchange Online administra
 - Delegated users successfully received Full Access and Send As permissions.
 
 ![Mailbox Delegation](screenshots/08-Mailbox-Delegation.png)
+
+---
+
+## 9. Perform a Message Trace
+
+1. Navigate to **Mail Flow → Message Trace**.
+2. Search using the sender, recipient, or date range.
+3. Review the delivery status and message details.
+
+### Verification
+
+- Message Trace successfully displayed email delivery information.
+- Email delivery status could be reviewed for troubleshooting purposes.
+
+![Message Trace](screenshots/09-Message-Trace.png)
