@@ -39,3 +39,19 @@ This lab demonstrates how to perform common Microsoft Exchange Online administra
 - Mailbox information was accessible.
 
 ![Mailboxes](screenshots/02-Mailboxes.png)
+
+---
+
+## 3. Create a Shared Mailbox
+
+1. Navigate to **Recipients → Mailboxes**.
+2. Select **Add a shared mailbox**.
+3. Create a shared mailbox named **IT Support**.
+4. Assign **John Smith** and **David Lee** with **Full Access** and **Send As** permissions.
+
+### Verification
+
+- Shared mailbox **IT Support** was successfully created.
+- Assigned users were granted mailbox access and Send As permissions.
+
+![Shared Mailbox](screenshots/03-Shared-Mailbox.png)
