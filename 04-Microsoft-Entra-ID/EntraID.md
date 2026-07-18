@@ -41,3 +41,9 @@ Verify the Microsoft Entra dashboard is displayed.
    - Assigned licenses
    - Assigned roles
    - Authentication methods
+
+## Verification
+
+Confirm the user information is displayed correctly.
+
+![All Users](screenshots/02-AllUsers.png)
