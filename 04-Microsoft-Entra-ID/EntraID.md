@@ -73,3 +73,17 @@ Confirm the group has been created and members have been added.
 
 ![Security Group](screenshots/03-SecurityGroup.png)
 
+---
+
+## Lab 4 - Explore Administrator Roles
+
+### Steps
+
+1. Navigate to **Roles & administrators**.
+2. Open the following roles:
+   - Global Administrator
+   - User Administrator
+   - Groups Administrator
+   - Helpdesk Administrator
+3. Review each role's permissions.
+
