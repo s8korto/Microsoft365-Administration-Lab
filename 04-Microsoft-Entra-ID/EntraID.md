@@ -140,6 +140,12 @@ Confirm sign-in logs are available.
 1. Navigate to **Applications** → **Enterprise applications**.
 2. Review the available applications.
 
+## Verification
+
+Confirm enterprise applications are displayed.
+
+![Enterprise Application](screenshots/07-EnterpriseApplications.png)
+
 
 
 
