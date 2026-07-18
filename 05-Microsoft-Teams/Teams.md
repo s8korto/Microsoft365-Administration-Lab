@@ -125,3 +125,19 @@ Modify one or more settings, such as:
 Save the changes.
 
 ![Team Setting](screenshots/07-team-settings.png)
+
+---
+
+### 8. Create a Private Channel
+
+Create a private channel named:
+
+```
+Managers
+```
+
+Add only the Administrator account.
+
+Verify that other members cannot access the channel.
+
+![Private Channel](screenshots/08-private-channel.png)
