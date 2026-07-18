@@ -106,3 +106,22 @@ Maintenance scheduled this Friday.
 This demonstrates role management within Microsoft Teams.
 
 ![Manage Members](screenshots/06-manage-members.png)
+
+---
+
+### 7. Configure Team Settings
+
+Navigate to:
+
+Manage Team → Settings
+
+Modify one or more settings, such as:
+
+- Allow members to create channels
+- Allow members to delete channels
+- Allow GIFs
+- Allow stickers and memes
+
+Save the changes.
+
+![Team Setting](screenshots/07-team-settings.png)
