@@ -131,6 +131,15 @@ Confirm sign-in logs are available.
 
 ![SignInLogs](screenshots/06-SignInLogs.png)
 
+---
+
+## Lab 7 - Explore Enterprise Applications
+
+### Steps
+
+1. Navigate to **Applications** → **Enterprise applications**.
+2. Review the available applications.
+
 
 
 
