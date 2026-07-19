@@ -170,6 +170,38 @@ External collaboration enables communication with trusted partners while maintai
 
 ![External Access](screenshots/05-external-access.png)
 
+---
+
+# Task 6 - Review Meeting Policies
+
+### Help Desk Ticket
+
+**Ticket:** HD-5006
+
+### Request
+
+Management requested IT to review the organization's Microsoft Teams meeting policies to ensure employees are using the approved meeting configuration.
+
+### Actions Performed
+
+- Navigated to Teams & groups > Policies.
+- Reviewed available Microsoft Teams meeting policies.
+- Confirmed the Global meeting policy was available.
+- Verified default meeting policies assigned to the organization.
+
+### Business Value
+
+Reviewing meeting policies ensures meetings follow organizational standards for security, recording, participant permissions, and collaboration.
+
+### Verification
+
+- Meeting policies successfully displayed.
+- Global and default meeting policies available.
+- Policy types identified.
+
+![Meeting Policies](screenshots/06-meeting-policies.png)
+
+
 
 
 
