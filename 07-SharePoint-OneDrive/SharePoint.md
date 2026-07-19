@@ -21,3 +21,19 @@ As the Microsoft 365 Administrator, your responsibilities are to:
 
 ---
 
+# Tasks Performed
+
+## Created a Team Site
+
+Created a SharePoint Team Site named **IT Collaboration** to provide a central workspace for the IT department.
+
+### Result
+
+- Team Site created successfully.
+- Microsoft 365 Group created automatically.
+- Owners and Members assigned.
+
+![Team Site Created](screenshots/01-team-site-created.png)
+
+---
+
