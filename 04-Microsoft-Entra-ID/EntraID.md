@@ -6,7 +6,7 @@ This lab demonstrates how to use Microsoft Entra ID to manage identities, securi
 
 ---
 
-# Business Scenario
+## Business Scenario
 
 An company employs approximately 20 staff across multiple departments including:
 
@@ -19,6 +19,21 @@ An company employs approximately 20 staff across multiple departments including:
 Following several phishing attempts targeting employee accounts, management requested the IT department to strengthen identity security and improve access management across the Microsoft 365 environment.
 
 As the Microsoft 365 Administrator, I was responsible for reviewing user identities, implementing security controls, monitoring authentication activity, and applying the principle of least privilege.
+
+---
+
+## Business Requirements
+
+- Review user accounts and identity information
+- Verify department security groups
+- Enable Multi-Factor Authentication (MFA)
+- Create a Conditional Access policy
+- Reset compromised user passwords
+- Review sign-in activity
+- Assign administrator roles using the Principle of Least Privilege
+
+---
+
 
 ## Prerequisites
 
