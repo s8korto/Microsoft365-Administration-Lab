@@ -1,8 +1,16 @@
-# User Management
+# Microsoft 365 User Management
 
 ## Objective
 
 This lab demonstrates how to manage Microsoft 365 users by creating accounts, assigning licenses, resetting passwords, blocking sign-in, deleting users, and restoring deleted accounts.
+
+---
+
+## Business Scenario
+
+An Manufacturing Pty Ltd has hired several new employees across different departments.
+
+As the Microsoft 365 Administrator, I was responsible for provisioning user accounts, assigning the correct licenses, configuring user information, enforcing account security, and deprovisioning accounts when employees left the company.
 
 ---
 
