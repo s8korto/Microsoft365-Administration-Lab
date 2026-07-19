@@ -34,6 +34,36 @@ As the Microsoft 365 Administrator, I was responsible for reviewing user identit
 
 ---
 
+# Task 1 - Review User Accounts
+
+### Help Desk Ticket
+
+**Ticket:** HD-4001
+
+**Request**
+
+HR recently onboarded several new employees and requested IT verify that all user accounts had been successfully created before Microsoft 365 services were assigned.
+
+### Actions Performed
+
+- Opened Microsoft Entra Admin Center
+- Reviewed all users
+- Verified account status
+- Confirmed user information including department and job title
+- Checked sign-in status
+
+### Business Value
+
+Reviewing user accounts ensures employee identities are accurate before access is granted to company resources, reducing administrative errors during onboarding.
+
+### Verification
+
+- All employee accounts successfully located
+- User information matched HR records
+- Account status 
+
+![Review Users](screenshots/01-Review-Users.png)
+
 
 ## Prerequisites
 
