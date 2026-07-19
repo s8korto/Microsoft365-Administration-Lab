@@ -6,6 +6,11 @@ Demonstrate how Microsoft 365 licenses are assigned, modified, and reclaimed to 
 
 ---
 
+## Business Scenario
+
+A company hired several new employees across different departments.
+
+The HR department submitted an onboarding request to IT to provision Microsoft 365 accounts with the appropriate licenses.
 
 
 ## Lab 1 - View Available Licenses
