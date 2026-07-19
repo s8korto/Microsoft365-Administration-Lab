@@ -111,7 +111,36 @@ Delegating Team management reduces the workload on IT while allowing departments
 - Owners displayed correctly
 - Managers able to administer Team settings
 
-![Teams Added](screenshots/03-team-owner-assigned.png)
+![Team Promote](screenshots/03-team-owner-assigned.png)
+
+---
+
+# Task 4 - Create Channels
+
+### Help Desk Ticket
+
+**Ticket:** HD-5004
+
+### Request
+
+The IT department requested separate channels for Help Desk, Infrastructure, Projects, and Documentation to better organize discussions.
+
+### Actions Performed
+
+- Created channels within the IT Team
+- Assigned meaningful channel names
+- Verified channels were available to members
+
+### Business Value
+
+Organized channels reduce clutter, improve collaboration, and make project information easier to locate.
+
+### Verification
+
+- Channels successfully created
+- Members able to access each channel
+
+![Channel Created](screenshots/04-channels-created.png)
 
 
 
