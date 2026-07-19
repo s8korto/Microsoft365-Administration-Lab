@@ -128,6 +128,34 @@ Recovering unused licenses reduces unnecessary licensing costs and makes them av
 
 ![License Removed](screenshots/03-License-Removed.png)
 
+---
+
+# Task 4 - Bulk License Assignment
+
+### Help Desk Ticket
+
+**Ticket:** HD-2005
+
+**Request**
+
+Ten graduate employees joined the IT department and all require the same Microsoft 365 Business Premium license.
+
+### Actions Performed
+
+- Selected multiple users
+- Assigned Business license
+- Confirmed successful assignment
+
+### Business Value
+
+Bulk licensing significantly reduces administrative effort during large onboarding activities.
+
+### Verification
+
+- All selected users show the correct license
+
+![Bulk License Assignment](screenshots/04-Bulk-License-Assignment.png)
+
 
 
 ## Lab 1 - View Available Licenses
