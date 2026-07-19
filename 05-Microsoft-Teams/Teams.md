@@ -24,153 +24,38 @@ The IT department received multiple requests from different business units to pr
 - Configure meeting policies
 - Archive inactive Teams when projects finish
 
-
-## Steps
-
-### 1. Open Microsoft Teams
-
-1. Sign in to the Microsoft Teams web app or desktop application.
-2. Navigate to **Teams**.
-3. Select **Join or create a team**.
-
-![Open Teams](screenshots/01-open-teams.png)
-
 ---
 
-### 2. Create a New Team
+# Task 1 - Create Department Teams
 
-1. Click **Create team**.
-2. Select **From scratch**.
-3. Choose **Private**.
-4. Enter the following details:
+### Help Desk Ticket
 
-| Setting | Value |
-|----------|-------|
-| Team Name | IT Support |
-| Description | Internal IT Support Team |
+**Ticket:** HD-5001
 
-5. Click **Create**.
+### Request
 
-![Create Teams](screenshots/02-create-team.png)
+The Operations Manager requested dedicated collaboration spaces for the IT, HR, Finance, and Sales departments before new employees begin work.
 
----
+### Actions Performed
 
-### 3. Add Team Members
+- Created separate Teams for each department
+- Assigned appropriate team names
+- Selected Private teams
+- Assigned department managers as Team Owners
 
-1. Add the Test User to the team.
-2. Leave the Administrator account as the Team Owner.
-3. Verify both users appear in the Members list.
+### Business Value
 
-![Team Member](screenshots/03-team-members.png)
+Creating department Teams provides employees with dedicated collaboration spaces while preventing unauthorized access to sensitive discussions.
 
----
+### Verification
 
-### 4. Create Channels
+- Teams successfully created
+- Team owners assigned
+- Teams visible in Microsoft Teams
 
-Create the following standard channels:
+![Teams Created](screenshots/01-teams-created.png)
 
-- Help Desk
-- Projects
-- Announcements
-    
-The default **General** channel is created automatically.
 
-![Channel](screenshots/04-channels.png)
-
----
-
-### 5. Post Messages
-
-Create sample conversations in each channel.
-
-For Example:
-
-**General**
-
-```
-Welcome to the IT Support Team.
-```
-
-**Help Desk**
-
-```
-Ticket #1001
-Printer issue
-Assigned to Administrator
-```
-
-**Projects**
-
-```
-Microsoft 365 Administration Lab
-Status: In Progress
-```
-
-**Announcements**
-
-```
-Maintenance scheduled this Friday.
-```
-
-![Channel Posts](screenshots/05-channel-posts.png)
-
----
-
-### 6. Manage Team Roles
-
-1. Open **Manage team**.
-2. Promote the Test User to **Owner**.
-3. Change the user back to **Member**.
-
-This demonstrates role management within Microsoft Teams.
-
-![Manage Members](screenshots/06-manage-members.png)
-
----
-
-### 7. Configure Team Settings
-
-Navigate to:
-
-Manage Team → Settings
-
-Modify one or more settings, such as:
-
-- Allow members to create channels
-- Allow members to delete channels
-- Allow GIFs
-- Allow stickers and memes
-
-Save the changes.
-
-![Team Setting](screenshots/07-team-settings.png)
-
----
-
-### 8. Create a Private Channel
-
-Create a private channel named:
-
-```
-Managers
-```
-
-Add only the Administrator account.
-
-Verify that other members cannot access the channel.
-
-![Private Channel](screenshots/08-private-channel.png)
-
----
-
-### 9. Archive and Restore the Team
-
-1. Select the Team.
-2. Choose **Archive Team**.
-3. Verify the team becomes read-only.
-4. Restore the team.
-
-![Archive Team](screenshots/09-archive-team.png)
 
 ---
 
