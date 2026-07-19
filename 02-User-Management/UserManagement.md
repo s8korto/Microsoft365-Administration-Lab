@@ -51,6 +51,8 @@ Configured:
 
 Assigned Microsoft 365 Business Premium licenses.
 
+![User Provision](screenshots/01-user-provision.png)
+
 
 
 ## Verification
