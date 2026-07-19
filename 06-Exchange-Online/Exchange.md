@@ -205,9 +205,37 @@ Mailbox delegation enables assistants to manage executive communications securel
 
 ![Mailbox Permission](screenshots/06-Mailbox-Permissions.png)
 
+---
 
+# Task 7 - Investigate Email Delivery
 
+### Help Desk Ticket
 
+**Ticket:** HD-3007
+
+### Request
+
+The Sales department reported that an important customer email had not been received.
+
+IT was asked to investigate whether the message was successfully delivered.
+
+### Actions Performed
+
+- Opened Message Trace
+- Searched for sender and recipient
+- Reviewed delivery status
+- Confirmed message processing results
+
+### Business Value
+
+Message Trace helps IT quickly identify delivery failures, spam filtering issues, or routing problems, reducing downtime for business communications.
+
+### Verification
+
+- Message trace completed
+- Delivery status confirmed
+
+![Message Trace](screenshots/07-Message-Trace..png)
 
 ---
 
