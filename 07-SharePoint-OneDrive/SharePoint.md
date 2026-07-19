@@ -36,4 +36,3 @@ Created a SharePoint Team Site named **IT Collaboration** to provide a central w
 ![Team Site Created](screenshots/01-team-site-created.png)
 
 ---
-

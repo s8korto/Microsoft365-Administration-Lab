@@ -92,23 +92,6 @@ Reviewing available licenses confirms which Microsoft 365 services can be assign
 
 ---
 
-### 5. Explore the Microsoft 365 Admin Center
-
-After provisioning the tenant, I explored the Microsoft 365 Admin Center to become familiar with the administrative interface and available management areas.
-
-The following sections were reviewed:
-
-- Home
-- Users
-- Teams & Groups
-- Billing
-- Reports
-- Health
-- Settings
-- Admin Centers
-
----
-
 ## Verification
 
 Successfully confirmed:
@@ -129,18 +112,7 @@ Successfully confirmed:
 - Reviewed available licenses.
 - Confirmed administrative access.
 
----
 
-## Next Steps
-
-The tenant has now been configured and verified.
-
-The next stage of the lab focuses on:
-
-- Creating users
-- Managing passwords
-- Assigning licenses
-- Creating security groups
 
 
 
