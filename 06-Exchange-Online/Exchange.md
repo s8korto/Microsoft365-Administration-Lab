@@ -6,6 +6,12 @@ Demonstrate common Microsoft Exchange Online administration tasks used by IT adm
 
 ---
 
+## Business Scenario
+
+The company recently migrated its email system to Microsoft 365 Exchange Online.
+
+As the Microsoft 365 Administrator, IT is responsible for managing employee mailboxes, supporting departmental collaboration, ensuring emails are delivered successfully, and responding to help desk requests.
+
 
 
 ---
