@@ -81,6 +81,10 @@ Actions completed:
 
 ![Remove License](screenshots/04-remove-license.png)
 
+- Deleted user account
+
+![Delete User](screenshots/05-delete-user.png)
+
 
 
 
