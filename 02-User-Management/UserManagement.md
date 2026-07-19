@@ -77,6 +77,11 @@ Actions completed:
 
 ![Block Sign-In](screenshots/03-Blocked-sign-in.png)
 
+- Removed Microsoft 365 license
+
+![Remove License](screenshots/04-remove-license.png)
+
+
 
 
 
