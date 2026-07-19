@@ -194,6 +194,37 @@ Sign-in logs allow administrators to investigate suspicious login attempts and i
 
 ![Sign In logs](screenshots/05-Sign-In-Logs.png)
 
+---
+
+# Task 6 - Assign Administrative Roles
+
+### Help Desk Ticket
+
+**Ticket:** HD-4007
+
+**Request**
+
+A newly hired IT Support Technician requires permission to reset user passwords but should not receive full Global Administrator access.
+
+| Name | Department | Job Title |
+|-------|------------|-----------|
+| John Smith | IT | IT Support Technician |
+
+### Actions Performed
+
+- Reviewed available administrator roles
+- Assigned Password Administrator role
+- Verified role assignment
+
+### Business Value
+
+Applying Role-Based Access Control (RBAC) limits administrative privileges and reduces security risks by following the Principle of Least Privilege.
+
+### Verification
+
+- Administrator role successfully assigned
+- Assigned permissions displayed correctly
+
 
 ## Prerequisites
 
