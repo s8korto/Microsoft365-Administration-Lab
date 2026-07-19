@@ -12,6 +12,18 @@ An company has expanded its workforce and introduced several new departments tha
 
 The IT department received multiple requests from different business units to prepare Teams for daily operations while ensuring employees have the correct access.
 
+---
+
+## Business Requirements
+
+- Create department-specific Teams
+- Add and remove team members
+- Assign team owners
+- Configure channels for projects
+- Manage external collaboration
+- Configure meeting policies
+- Archive inactive Teams when projects finish
+
 
 ## Steps
 
