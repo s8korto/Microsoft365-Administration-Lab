@@ -1,10 +1,12 @@
-# License Management
+# Microsoft 365 License Management
 
 ## Objective
 
-This lab demonstrates how to manage Microsoft 365 licenses by viewing available subscriptions, assigning and removing licenses, enabling or disabling individual services, and performing bulk license assignments.
+Demonstrate how Microsoft 365 licenses are assigned, modified, and reclaimed to ensure employees receive the correct services while minimizing licensing costs.
 
 ---
+
+
 
 ## Lab 1 - View Available Licenses
 
