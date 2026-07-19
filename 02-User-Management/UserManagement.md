@@ -14,6 +14,18 @@ As the Microsoft 365 Administrator, I was responsible for provisioning user acco
 
 ---
 
+## Business Requirements
+
+- Create user accounts for new employees
+- Assign Microsoft 365 Business Premium licenses
+- Configure department and job titles
+- Reset passwords for first login
+- Block sign-in for terminated employees
+- Restore accidentally deleted accounts
+- Verify users can successfully sign in
+
+---
+
 ## Prerequisite
 
 - Access to Microsoft 365 Admin Center
