@@ -147,6 +147,34 @@ Automatic replies improve customer communication and reduce delays when employee
 
 ---
 
+# Task 5 - Create a Distribution List
+
+### Help Desk Ticket
+
+**Ticket:** HD-3005
+
+### Request
+
+Management requested an email group allowing announcements to be sent to all Finance employees simultaneously.
+
+### Actions Performed
+
+- Created a distribution list
+- Added Finance employees
+- Verified membership
+- Confirmed group email address
+
+### Business Value
+
+Distribution lists simplify internal communication and reduce administrative effort when sending department-wide announcements.
+
+### Verification
+
+- Distribution list created
+- Members successfully added
+
+![Distribution List](screenshots/05-Distribution-List.png)
+
 
 
 
