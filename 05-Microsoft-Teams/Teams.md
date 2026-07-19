@@ -84,6 +84,36 @@ Assigning employees to the correct Team ensures they immediately receive departm
 
 ![Teams Added](screenshots/02-team-members-added.png)
 
+---
+
+# Task 3 - Promote Team Owners
+
+### Help Desk Ticket
+
+**Ticket:** HD-5003
+
+### Request
+
+Department managers require administrative control to manage membership and moderate conversations without contacting IT.
+
+### Actions Performed
+
+- Promoted department managers to Team Owners
+- Confirmed Owner permissions
+- Verified multiple Owners where required
+
+### Business Value
+
+Delegating Team management reduces the workload on IT while allowing departments to manage their own collaboration spaces.
+
+### Verification
+
+- Owners displayed correctly
+- Managers able to administer Team settings
+
+![Teams Added](screenshots/03-team-owner-assigned.png)
+
+
 
 
 
