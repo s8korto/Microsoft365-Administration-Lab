@@ -36,6 +36,25 @@ As the Microsoft 365 Administrator, I was responsible for provisioning user acco
 
 ---
 
+## Tasks Performed
+
+### User Provisioning
+
+Created Microsoft 365 accounts for all new employees using the Microsoft 365 Admin Center.
+
+Configured:
+
+- Display Name
+- Username
+- Department
+- Job Title
+
+Assigned Microsoft 365 Business Premium licenses.
+
+
+
+
+
 ## Prerequisite
 
 - Access to Microsoft 365 Admin Center
