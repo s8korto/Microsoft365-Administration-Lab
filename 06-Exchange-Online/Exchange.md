@@ -143,7 +143,11 @@ Automatic replies improve customer communication and reduce delays when employee
 - Automatic replies enabled
 - Schedule confirmed
 
-![Automatic Replies](screenshots/04-Automatic-Replied.png)
+![Automatic Replies](screenshots/04-Automatic-Replies.png)
+
+---
+
+
 
 
 
