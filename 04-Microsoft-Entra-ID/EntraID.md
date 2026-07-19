@@ -107,6 +107,10 @@ Using security groups simplifies permission management and reduces the need to a
 
 Following multiple phishing attempts, management requested Multi-Factor Authentication be enabled for all office employees.
 
+| Name | Department | Job Title |
+|-------|------------|-----------|
+| Ava Baker | Finance | Accounts Payable Officer |
+
 ### Actions Performed
 
 - Selected target users
@@ -123,6 +127,40 @@ MFA significantly reduces the risk of compromised passwords being used to access
 - Authentication status displayed successfully
 
 ![Enable MFA](screenshots/03-Enable-MFA.png)
+
+---
+
+# Task 4 - Reset User Password
+
+### Help Desk Ticket
+
+**Ticket:** HD-4004
+
+**Request**
+
+A Sales employee contacted the IT Service Desk after forgetting their Microsoft 365 password and was unable to access Outlook and Teams.
+
+| Name | Department | Job Title |
+|-------|------------|-----------|
+| Benjamin Scott | Sales | Sales Manager |
+
+### Actions Performed
+
+- Located the employee account
+- Reset the password
+- Required password change at next sign-in
+- Provided temporary credentials
+
+### Business Value
+
+Password resets restore employee productivity while maintaining account security through mandatory password changes.
+
+### Verification
+
+- Password successfully reset
+- User required to change password at next login
+
+![Password Reset](screenshots/04-Password-Reset.png)
 
 
 ## Prerequisites
