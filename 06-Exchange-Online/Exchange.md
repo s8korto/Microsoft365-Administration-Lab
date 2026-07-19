@@ -115,6 +115,37 @@ Mail forwarding ensures business communications continue uninterrupted during te
 
 ![Mail Forward](screenshots/03-Mail-Forwarding.png)
 
+---
+
+# Task 4 - Configure Automatic Replies
+
+### Help Desk Ticket
+
+**Ticket:** HD-3004
+
+### Request
+
+A Finance Manager was scheduled for annual leave and requested an automatic reply informing senders of their absence and providing an alternate contact.
+
+### Actions Performed
+
+- Enabled automatic replies
+- Configured internal message
+- Configured external message
+- Set the scheduled duration
+
+### Business Value
+
+Automatic replies improve customer communication and reduce delays when employees are unavailable.
+
+### Verification
+
+- Automatic replies enabled
+- Schedule confirmed
+
+![Automatic Replies](screenshots/04-Automatic-Replied.png)
+
+
 
 ---
 
