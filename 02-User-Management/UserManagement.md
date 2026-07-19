@@ -26,6 +26,16 @@ As the Microsoft 365 Administrator, I was responsible for provisioning user acco
 
 ---
 
+## New Employees
+
+| Name | Department | Job Title |
+|-------|------------|-----------|
+| Ava Baker | Finance | Accounts Payable Officer |
+| Noah Campbell | Operations | Operations Coordinator |
+| Isabella Mitchell | Customer Service | Customer Success Manager |
+
+---
+
 ## Prerequisite
 
 - Access to Microsoft 365 Admin Center
