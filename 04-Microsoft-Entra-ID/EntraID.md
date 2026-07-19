@@ -162,6 +162,38 @@ Password resets restore employee productivity while maintaining account security
 
 ![Password Reset](screenshots/04-Password-Reset.png)
 
+---
+
+# Task 5 - Review Sign-in Logs
+
+### Help Desk Ticket
+
+**Ticket:** HD-4006
+
+**Request**
+
+The Security Team requested a review of recent sign-in activity after Microsoft reported unusual authentication attempts.
+
+### Actions Performed
+
+- Opened Sign-in Logs
+- Reviewed successful sign-ins
+- Reviewed failed sign-ins
+- Examined login locations
+- Checked authentication methods
+
+### Business Value
+
+Sign-in logs allow administrators to investigate suspicious login attempts and identify potential security incidents before they become serious threats.
+
+### Verification
+
+- Recent authentication activity displayed
+- Successful and failed sign-ins reviewed
+- Login locations verified
+
+![Sign In logs](screenshots/05-Sign-In-Logs.png)
+
 
 ## Prerequisites
 
