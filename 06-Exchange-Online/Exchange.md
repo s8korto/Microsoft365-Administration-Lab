@@ -85,6 +85,36 @@ Shared mailboxes allow multiple employees to respond from one company email addr
 
 ![Shared Mailbox](screenshots/02-Shared-Mailbox.png)
 
+---
+
+# Task 3 - Configure Mail Forwarding
+
+### Help Desk Ticket
+
+**Ticket:** HD-3003
+
+### Request
+
+A project manager was seconded to another office for three months and requested incoming emails be forwarded to their temporary mailbox.
+
+### Actions Performed
+
+- Enabled mail forwarding
+- Specified destination mailbox
+- Retained a copy in the original mailbox
+- Confirmed forwarding configuration
+
+### Business Value
+
+Mail forwarding ensures business communications continue uninterrupted during temporary staff relocations or role changes.
+
+### Verification
+
+- Forwarding enabled
+- Destination mailbox configured successfully
+
+![Mail Forward](screenshots/03-Mail-Forwarding.png)
+
 
 ---
 
