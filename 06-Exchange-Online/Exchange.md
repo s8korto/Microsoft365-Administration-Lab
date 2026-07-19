@@ -241,8 +241,9 @@ Message Trace helps IT quickly identify delivery failures, spam filtering issues
 
 ## Key Takeaways
 
-- Managed **user mailboxes** and **shared mailboxes** for organizational email services.
-- Configured **mailbox permissions** using **Full Access** and **Send As** delegation.
-- Created and managed **distribution lists** and **mail contacts** for efficient email communication.
-- Configured **mail forwarding** and **Automatic Replies (Out of Office)** to support business continuity.
-- Used **Message Trace** to troubleshoot and verify email delivery.
+- Managing Exchange Online mailboxes
+- Supporting employee onboarding
+- Creating shared mailboxes
+- Configuring automatic replies
+- Managing distribution groups
+- Delegating mailbox permissions
