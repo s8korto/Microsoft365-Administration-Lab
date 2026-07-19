@@ -53,6 +53,18 @@ Assigned Microsoft 365 Business Premium licenses.
 
 ![User Provision](screenshots/01-user-provision.png)
 
+---
+
+### Password Management
+
+Generated temporary passwords.
+
+Enabled users to change their password during first sign-in.
+
+This ensures each employee creates a private password before accessing company resources.
+
+![Password Management](screenshots/02-password-management.png)
+
 
 
 ## Verification
