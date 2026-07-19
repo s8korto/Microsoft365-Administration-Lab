@@ -95,6 +95,40 @@ Users immediately receive access to:
 
 ![Assign Licenses](screenshots/02-assign-license.png)
 
+---
+
+# Task 3 - Remove License
+
+### Help Desk Ticket
+
+**Ticket:** HD-2003
+
+**Request**
+
+An employee has left the company. Remove their Microsoft 365 license so it can be reused.
+
+| Name | Department | Job Title |
+|-------|------------|-----------|
+| Emily Johnson | Marketing | Marketing Coordinator |
+
+### Actions Performed
+
+- Opened user account
+- Removed assigned license
+- Saved changes
+
+### Business Value
+
+Recovering unused licenses reduces unnecessary licensing costs and makes them available for future employees.
+
+### Verification 
+
+- License removed
+- Available license count increased
+
+![License Removed](screenshots/03-License-Removed.png)
+
+
 
 ## Lab 1 - View Available Licenses
 
