@@ -1,8 +1,8 @@
-# Exchange Online
+# Microsoft 365 Exchange Online Administration
 
 ## Objective
 
-This lab demonstrates how to perform common Microsoft Exchange Online administration tasks using the Exchange Admin Center.
+Demonstrate common Microsoft Exchange Online administration tasks used by IT administrators to manage corporate email services, improve collaboration, enhance security, and support employee requests.
 
 ---
 
