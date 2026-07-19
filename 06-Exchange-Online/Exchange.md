@@ -175,6 +175,36 @@ Distribution lists simplify internal communication and reduce administrative eff
 
 ![Distribution List](screenshots/05-Distribution-List.png)
 
+---
+
+# Task 6 - Delegate Mailbox Permissions
+
+### Help Desk Ticket
+
+**Ticket:** HD-3006
+
+### Request
+
+The Executive Assistant required access to the CEO's mailbox to manage the executive calendar and respond to selected emails.
+
+### Actions Performed
+
+- Assigned Full Access permission
+- Assigned Send As permission
+- Verified delegated permissions
+- Confirmed mailbox accessibility
+
+### Business Value
+
+Mailbox delegation enables assistants to manage executive communications securely without sharing passwords.
+
+### Verification
+
+- Mailbox permissions successfully assigned
+- Delegate access confirmed
+
+![Mailbox Permission](screenshots/06-Mailbox-Permissions.png)
+
 
 
 
