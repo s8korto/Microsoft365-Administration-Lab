@@ -225,8 +225,9 @@ Applying Role-Based Access Control (RBAC) limits administrative privileges and r
 - Administrator role successfully assigned
 - Assigned permissions displayed correctly
 
+![Admin Roles](screenshots/06-Admin-Roles.png)
 
-
+---
 
 # Key Takeaways
 
