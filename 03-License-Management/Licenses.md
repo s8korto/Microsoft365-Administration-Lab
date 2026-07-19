@@ -26,7 +26,7 @@ The HR department submitted an onboarding request to IT to provision Microsoft 3
 
 # Tasks Performed
 
-## Review Available Licenses
+# Task 1 - Review Available Licenses
 
 ### Help Desk Ticket
 
@@ -54,6 +54,46 @@ Checking license availability prevents onboarding delays and avoids assigning li
 
 ![View Licenses](screenshots/01-view-licenses.png)
 
+---
+
+# Task 2 - Assign Licenses
+
+### Help Desk Ticket
+
+**Ticket:** HD-2002
+
+**Request**
+
+Assign Microsoft 365 Business licenses to newly hired office employees.
+
+| Name | Department | Job Title |
+|-------|------------|-----------|
+| Matthew Thomas | Operations | Business Analyst |
+
+### Actions Performed
+
+- Selected user accounts
+- Assigned Microsoft 365 Business
+- Saved changes
+- Confirmed license assignment
+
+### Business Value
+
+Users immediately receive access to:
+
+- Outlook
+- Teams
+- OneDrive
+- SharePoint
+- Office applications
+- Microsoft Defender
+
+### Verification
+
+- License status shows Active
+- User can access Microsoft 365 applications
+
+![Assign Licenses](screenshots/02-assign-license.png)
 
 
 ## Lab 1 - View Available Licenses
