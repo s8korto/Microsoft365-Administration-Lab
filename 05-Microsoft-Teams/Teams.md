@@ -201,10 +201,34 @@ Reviewing meeting policies ensures meetings follow organizational standards for 
 
 ![Meeting Policies](screenshots/06-meeting-policies.png)
 
+---
 
+# Task 7 - Archive Completed Project Team
 
+### Help Desk Ticket
 
+**Ticket:** HD-5007
 
+### Request
+
+The ERP Migration project has concluded. Archive the Team so historical conversations remain available while preventing further changes.
+
+### Actions Performed
+
+- Archived the project Team
+- Confirmed read-only status
+- Verified files remained accessible
+
+### Business Value
+
+Archiving preserves project history for auditing and future reference without allowing unnecessary modifications.
+
+### Verification
+
+- Team displayed as Archived
+- Members unable to post new conversations
+
+![Archived Team](screenshots/07-archived-team.png)
 
 ---
 
