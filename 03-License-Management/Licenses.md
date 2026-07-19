@@ -24,6 +24,37 @@ The HR department submitted an onboarding request to IT to provision Microsoft 3
 
 ---
 
+# Tasks Performed
+
+## Review Available Licenses
+
+### Help Desk Ticket
+
+**Ticket:** HD-2001
+
+**Request**
+
+HR notified IT that five new employees will begin work next Monday. Before creating accounts, confirm that sufficient Microsoft 365 licenses are available.
+
+### Actions Performed
+
+- Opened Billing > Licenses
+- Reviewed purchased licenses
+- Checked assigned versus available licenses
+- Confirmed enough licenses remained
+
+### Business Value
+
+Checking license availability prevents onboarding delays and avoids assigning licenses that are no longer available.
+
+### Verification
+
+- Available licenses displayed
+- Assigned licenses matched current users
+
+![View Licenses](screenshots/01-view-licenses.png)
+
+
 
 ## Lab 1 - View Available Licenses
 
