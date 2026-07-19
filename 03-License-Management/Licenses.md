@@ -160,10 +160,10 @@ Bulk licensing significantly reduces administrative effort during large onboardi
 
 # Key Takeaways
 
-- A single license can include multiple Microsoft 365 applications.
-- Individual services can be enabled or disabled without removing the entire license.
-- Licenses can be assigned to one user or multiple users simultaneously.
-- Administrators should regularly monitor license availability to ensure sufficient capacity.
+- Verified available Microsoft 365 licenses before onboarding users.
+- Assigned licenses based on business requirements.
+- Removed licenses from inactive users to reduce costs.
+- Used bulk assignment to improve administrative efficiency.
 
 
 
