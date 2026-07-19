@@ -142,6 +142,33 @@ Organized channels reduce clutter, improve collaboration, and make project infor
 
 ![Channel Created](screenshots/04-channels-created.png)
 
+---
+
+# Task 5 - Configure External Access
+
+### Help Desk Ticket
+
+**Ticket:** HD-5005
+
+### Request
+
+The Procurement department needs to collaborate with an external supplier on an upcoming warehouse expansion project.
+
+### Actions Performed
+
+- Reviewed external collaboration settings
+- Configured external access according to company policy
+- Verified collaboration settings
+
+### Business Value
+
+External collaboration enables communication with trusted partners while maintaining organizational security.
+
+### Verification
+
+- External access configured
+
+![External Access](screenshots/05-external-access.png)
 
 
 
