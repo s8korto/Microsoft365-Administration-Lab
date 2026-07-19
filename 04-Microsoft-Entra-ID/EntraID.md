@@ -64,6 +64,37 @@ Reviewing user accounts ensures employee identities are accurate before access i
 
 ![Review Users](screenshots/01-Review-Users.png)
 
+---
+
+# Task 2 - Review Security Groups
+
+### Help Desk Ticket
+
+**Ticket:** HD-4002
+
+**Request**
+
+The IT Manager requested verification that employees were assigned to the correct security groups to ensure department-based access to Microsoft 365 resources.
+
+### Actions Performed
+
+- Reviewed Security Groups
+- Checked group membership
+- Confirmed department assignments
+- Verified group owners
+
+### Business Value
+
+Using security groups simplifies permission management and reduces the need to assign permissions individually.
+
+### Verification
+
+- Department groups displayed
+- Users assigned to appropriate groups
+- Group membership confirmed
+
+![Security Groups](screenshots/02-Security-Groups.png)
+
 
 ## Prerequisites
 
