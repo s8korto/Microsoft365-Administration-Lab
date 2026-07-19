@@ -65,6 +65,20 @@ This ensures each employee creates a private password before accessing company r
 
 ![Password Management](screenshots/02-password-management.png)
 
+---
+
+### Employee Offboarding
+
+An employee resigned from the company.
+
+Actions completed:
+
+- Blocked sign-in
+
+![Block Sign-In](screenshots/03-Blocked-sign-in.png)
+
+
+
 
 
 ## Verification
