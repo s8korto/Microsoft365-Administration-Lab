@@ -12,6 +12,18 @@ A company hired several new employees across different departments.
 
 The HR department submitted an onboarding request to IT to provision Microsoft 365 accounts with the appropriate licenses.
 
+---
+
+## Business Requirements
+
+- Assign Business licenses to office staff
+- Assign Business Basic licenses to warehouse employees
+- Review unused licenses
+- Reclaim licenses from departed employees
+- Verify license availability before onboarding additional staff
+
+---
+
 
 ## Lab 1 - View Available Licenses
 
