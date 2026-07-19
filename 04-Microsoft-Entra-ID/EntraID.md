@@ -1,10 +1,24 @@
-# Microsoft Entra ID
+# Microsoft Entra ID Administration
 
 ## Objective 
 
 This lab demonstrates how to use Microsoft Entra ID to manage identities, security groups, administrator roles, authentication methods, and sign-in activity within a Microsoft 365 tenant.
 
 ---
+
+# Business Scenario
+
+An company employs approximately 20 staff across multiple departments including:
+
+- IT
+- Human Resources
+- Finance
+- Sales
+- Operations
+
+Following several phishing attempts targeting employee accounts, management requested the IT department to strengthen identity security and improve access management across the Microsoft 365 environment.
+
+As the Microsoft 365 Administrator, I was responsible for reviewing user identities, implementing security controls, monitoring authentication activity, and applying the principle of least privilege.
 
 ## Prerequisites
 
