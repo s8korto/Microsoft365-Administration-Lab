@@ -12,6 +12,18 @@ The company recently migrated its email system to Microsoft 365 Exchange Online.
 
 As the Microsoft 365 Administrator, IT is responsible for managing employee mailboxes, supporting departmental collaboration, ensuring emails are delivered successfully, and responding to help desk requests.
 
+---
+
+## Business Requirements
+
+- Provision mailboxes for new employees
+- Create a shared mailbox for Customer Support
+- Configure automatic replies for staff on leave
+- Create distribution lists for company-wide communication
+- Delegate mailbox access to assistants
+- Configure mail forwarding for temporary staff
+- Investigate an email delivery issue using Message Trace
+
 
 
 ---
