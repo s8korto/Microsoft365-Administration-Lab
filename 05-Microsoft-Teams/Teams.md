@@ -55,6 +55,37 @@ Creating department Teams provides employees with dedicated collaboration spaces
 
 ![Teams Created](screenshots/01-teams-created.png)
 
+---
+
+# Task 2 - Add Members to Teams
+
+### Help Desk Ticket
+
+**Ticket:** HD-5002
+
+### Request
+
+HR confirmed all new employees had started. Add each employee to the appropriate department Team.
+
+### Actions Performed
+
+- Added employees to their respective Teams
+- Verified department membership
+- Confirmed users could access their Team
+
+### Business Value
+
+Assigning employees to the correct Team ensures they immediately receive department communications, shared files, and meeting invitations.
+
+### Verification
+
+- Members displayed under Team membership
+- Employees successfully joined their Team
+
+![Teams Added](screenshots/02-team-members-added.png)
+
+
+
 
 
 ---
