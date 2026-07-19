@@ -95,6 +95,35 @@ Using security groups simplifies permission management and reduces the need to a
 
 ![Security Groups](screenshots/02-Security-Groups.png)
 
+---
+
+# Task 3 - Enable Multi-Factor Authentication (MFA)
+
+### Help Desk Ticket
+
+**Ticket:** HD-4003
+
+**Request**
+
+Following multiple phishing attempts, management requested Multi-Factor Authentication be enabled for all office employees.
+
+### Actions Performed
+
+- Selected target users
+- Enabled Multi-Factor Authentication
+- Verified MFA registration status
+
+### Business Value
+
+MFA significantly reduces the risk of compromised passwords being used to access company resources.
+
+### Verification
+
+- MFA enabled for selected users
+- Authentication status displayed successfully
+
+![Enable MFA](screenshots/03-Enable-MFA.png)
+
 
 ## Prerequisites
 
