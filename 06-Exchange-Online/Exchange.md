@@ -54,6 +54,37 @@ Providing mailboxes before an employee's start date ensures immediate communicat
 
 ![Mailboxs Overview](screenshots/01-Mailboxes-Overview.png)
 
+---
+
+# Task 2 - Create a Shared Mailbox
+
+### Help Desk Ticket
+
+**Ticket:** HD-3002
+
+### Request
+
+The Customer Support team requested a shared mailbox so multiple staff members could manage customer enquiries from a single email address.
+
+### Actions Performed
+
+- Created a shared mailbox
+- Assigned Customer Support staff as members
+- Verified mailbox permissions
+- Confirmed mailbox appeared in Outlook
+
+### Business Value
+
+Shared mailboxes allow multiple employees to respond from one company email address while maintaining continuity for customers.
+
+### Verification
+
+- Shared mailbox created
+- Members successfully assigned
+- Mailbox accessible by support staff
+
+![Shared Mailbox](screenshots/02-Shared-Mailbox.png)
+
 
 ---
 
