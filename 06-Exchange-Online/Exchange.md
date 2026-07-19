@@ -24,6 +24,35 @@ As the Microsoft 365 Administrator, IT is responsible for managing employee mail
 - Configure mail forwarding for temporary staff
 - Investigate an email delivery issue using Message Trace
 
+---
+
+# Task 1 - Provision Employee Mailboxes
+
+### Help Desk Ticket
+
+**Ticket:** HD-3001
+
+### Request
+
+HR onboarded three new employees and requested email accounts so they could begin work on their first day.
+
+### Actions Performed
+
+- Verified the users existed in Microsoft 365
+- Confirmed each account had an Exchange Online mailbox
+- Verified mailbox status was healthy
+- Confirmed users could send and receive email
+
+### Business Value
+
+Providing mailboxes before an employee's start date ensures immediate communication with customers and internal teams.
+
+### Verification
+
+- Mailboxes successfully created
+- Exchange mailbox status displayed for each employee
+
+![Mailboxs Overview](screenshots/01-Mailboxes-Overview.png)
 
 
 ---
