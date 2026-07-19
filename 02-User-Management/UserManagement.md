@@ -85,10 +85,13 @@ Actions completed:
 
 ![Delete User](screenshots/05-delete-user.png)
 
+- Restored the account to simulate accidental deletion
 
+![Restore User](screenshots/06-restore-user.png)
 
+This demonstrates the account recovery process within the retention period.
 
-
+---
 
 ## Verification
 
