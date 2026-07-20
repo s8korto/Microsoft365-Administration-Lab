@@ -14,6 +14,10 @@ To improve collaboration and centralize document storage, the company adopted Mi
 
 As the Microsoft 365 Administrator, IT is responsible for creating collaboration sites, managing document permissions, configuring secure file sharing, monitoring storage usage, and ensuring employees have secure access to company files.
 
+---
+
+## Business Requirement
+
 As the Microsoft 365 Administrator, your responsibilities are to:
 
 - Create collaboration sites for departments.
@@ -25,17 +29,32 @@ As the Microsoft 365 Administrator, your responsibilities are to:
 
 ---
 
-# Tasks Performed
+# Task 1 - Create an IT Collaboration Site
 
-## Created a Team Site
+### Help Desk Ticket
 
-Created a SharePoint Team Site named **IT Collaboration** to provide a central workspace for the IT department.
+**Ticket:** HD-4001
 
-### Result
+### Request
 
-- Team Site created successfully.
-- Microsoft 365 Group created automatically.
-- Owners and Members assigned.
+The IT department requested a dedicated SharePoint Team Site where technicians could collaborate, store documentation, and share project files.
+
+### Actions Performed
+
+- Created a SharePoint Team Site
+- Configured the site as a Private Microsoft 365 Group
+- Assigned site owners
+- Verified site availability
+
+### Business Value
+
+Team Sites provide departments with a centralized workspace for collaboration, reducing reliance on local file storage and email attachments.
+
+### Verification
+
+- Team Site created successfully
+- Site accessible by authorized users
+- Microsoft 365 Group created automatically
 
 ![Team Site Created](screenshots/01-team-site-created.png)
 
