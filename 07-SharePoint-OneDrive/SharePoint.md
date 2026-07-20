@@ -176,3 +176,32 @@ Secure file sharing enables employees to collaborate on documents without creati
 - Recipient granted appropriate permissions
 
 ![File-Sharing](screenshots/05-File-Sharing.png)
+
+---
+
+# Task 6 - Review External Sharing Policy
+
+### Help Desk Ticket
+
+**Ticket:** HD-4006
+
+### Request
+
+The Information Security team requested verification that external file sharing complies with company security policies.
+
+### Actions Performed
+
+- Reviewed SharePoint sharing settings
+- Reviewed OneDrive sharing settings
+- Confirmed organization sharing configuration
+
+### Business Value
+
+Proper sharing policies reduce the risk of unauthorized data access while supporting secure collaboration with external partners.
+
+### Verification
+
+- Sharing policy reviewed successfully
+- Organization sharing settings confirmed
+
+![Sharing-Policy](screenshots/06-Sharing-Policy.png)
