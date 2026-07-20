@@ -117,3 +117,33 @@ Organized document libraries improve collaboration, simplify file management, an
 - Documents accessible to authorized users
 
 ![Document-Library](screenshots/03-Document-Library.png)
+
+---
+
+# Task 4 - Configure Site Permissions
+
+### Help Desk Ticket
+
+**Ticket:** HD-4004
+
+### Request
+
+A new IT Support Technician joined the department and required access to the IT Collaboration SharePoint site.
+
+### Actions Performed
+
+- Reviewed SharePoint permission groups
+- Verified Owners, Members, and Visitors groups
+- Added the technician to the Members group
+- Confirmed inherited permissions
+
+### Business Value
+
+Managing access through SharePoint groups simplifies administration while ensuring employees receive the appropriate level of access based on their role.
+
+### Verification
+
+- User successfully added to the Members group
+- Appropriate permissions applied
+
+![Site-Permissions](screenshots/04-Site-Permissions.png)
