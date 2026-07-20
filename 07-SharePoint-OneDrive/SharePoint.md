@@ -240,3 +240,31 @@ OneDrive provides employees with secure personal cloud storage, enabling access 
 
 ---
 
+# Task 8 - Review SharePoint Storage Usage
+
+### Help Desk Ticket
+
+**Ticket:** HD-4008
+
+### Request
+
+IT Management requested a review of SharePoint storage usage to ensure departmental sites remained within available tenant capacity.
+
+### Actions Performed
+
+- Reviewed Active Sites
+- Verified storage usage
+- Confirmed site storage information
+- Reviewed tenant storage allocation
+
+### Business Value
+
+Monitoring SharePoint storage helps administrators proactively manage capacity planning and avoid service disruptions caused by storage limitations.
+
+### Verification
+
+- Storage usage successfully reviewed
+- Site operating within available storage capacity
+
+![SharePoint-Storage](screenshots/08-SharePoint-Storage.png)
+
