@@ -21,4 +21,27 @@ The objective is to demonstrate practical administration skills across Microsoft
 - Automate administration using PowerShell
 - Troubleshoot common Microsoft 365 issues
 
+---
+
+
+
+---
+
+## Project Structure
+
+```
+01-Tenant-Setup
+02-User-Management
+03-License-Management
+04-Microsoft-Entra-ID
+05-Microsoft-Teams
+06-Exchange-Online
+07-SharePoint-OneDrive
+08-Security
+09-Conditional-Access
+10-Intune
+11-PowerShell
+12-Troubleshooting
+```
+
 
