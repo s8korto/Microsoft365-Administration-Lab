@@ -1,4 +1,4 @@
-# SharePoint & OneDrive Administration
+# Microsoft 365 SharePoint & OneDrive Administration
 
 ## Objective 
 
@@ -6,9 +6,13 @@ Demonstrate the administration of SharePoint Online and OneDrive by creating col
 
 ---
 
-# Business Scenario
+## Business Scenario
 
-ABC Manufacturing has expanded from 20 to 80 employees. Staff from Human Resources, Finance, and IT need a secure place to store documents and collaborate on projects.
+The company has experienced rapid growth, with multiple departments collaborating on projects across different office locations.
+
+To improve collaboration and centralize document storage, the company adopted Microsoft 365 SharePoint Online and OneDrive for Business.
+
+As the Microsoft 365 Administrator, IT is responsible for creating collaboration sites, managing document permissions, configuring secure file sharing, monitoring storage usage, and ensuring employees have secure access to company files.
 
 As the Microsoft 365 Administrator, your responsibilities are to:
 
