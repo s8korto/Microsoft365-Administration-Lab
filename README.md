@@ -23,7 +23,17 @@ The objective is to demonstrate practical administration skills across Microsoft
 
 ---
 
+## Lab Environment
 
+| Component | Details |
+|----------|---------|
+| **Platform** | Microsoft 365 Business Premium |
+| **Identity** | Microsoft Entra ID |
+| **Email** | Exchange Online |
+| **Collaboration** | Microsoft Teams |
+| **Storage** | SharePoint Online & OneDrive |
+| **Device Management** | Microsoft Intune |
+| **Automation** | Microsoft Graph PowerShell |
 
 ---
 
