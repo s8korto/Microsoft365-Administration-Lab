@@ -1,8 +1,6 @@
-# Microsoft365-Administration-Lab
+# Microsoft 365 Administration Lab
 
-## Project Overview 
+A hands-on Microsoft 365 Administration project that simulates the day-to-day responsibilities of an IT Support Engineer, Microsoft 365 Administrator, or Systems Administrator.
 
-This repository documents a hands-on Microsoft 365 Administration lab designed to simulate common administrative tasks performed by IT Support and Microsoft 365 Administrators.
-
-The purpose of this project is to gain practical experience managing Microsoft 365 services, users, security, licensing, and collaboration tools while documenting each task with step-by-step instructions and screenshots.
+The objective is to demonstrate practical administration skills across Microsoft 365 services including Microsoft Entra ID, Exchange Online, Microsoft Teams, SharePoint Online, OneDrive, Intune, and Security.
 
