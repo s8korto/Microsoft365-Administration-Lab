@@ -147,3 +147,32 @@ Managing access through SharePoint groups simplifies administration while ensuri
 - Appropriate permissions applied
 
 ![Site-Permissions](screenshots/04-Site-Permissions.png)
+
+---
+
+# Task 5 - Share Project Documents
+
+### Help Desk Ticket
+
+**Ticket:** HD-4005
+
+### Request
+
+The Infrastructure team requested secure access to a project document for collaborative editing.
+
+### Actions Performed
+
+- Shared the document with another employee
+- Assigned Edit permissions
+- Verified sharing configuration
+
+### Business Value
+
+Secure file sharing enables employees to collaborate on documents without creating duplicate copies while maintaining version history.
+
+### Verification
+
+- Document shared successfully
+- Recipient granted appropriate permissions
+
+![File-Sharing](screenshots/05-File-Sharing.png)
