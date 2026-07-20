@@ -272,11 +272,11 @@ Monitoring SharePoint storage helps administrators proactively manage capacity p
 
 # Key Takeaways
 
-- SharePoint Online administration
-- Team Site and Communication Site management
-- Document library organization
-- Permission and secure file sharing management
-- OneDrive for Business administration
-- SharePoint storage and sharing policy review
-- Help desk ticket resolution and configuration verification
-
+- Managing SharePoint Online sites
+- Creating Team Sites and Communication Sites
+- Organizing document libraries
+- Managing SharePoint permissions
+- Secure file sharing
+- Reviewing external sharing policies
+- Administering OneDrive for Business
+- Monitoring SharePoint storage usage
