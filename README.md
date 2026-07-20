@@ -4,3 +4,21 @@ A hands-on Microsoft 365 Administration project that simulates the day-to-day re
 
 The objective is to demonstrate practical administration skills across Microsoft 365 services including Microsoft Entra ID, Exchange Online, Microsoft Teams, SharePoint Online, OneDrive, Intune, and Security.
 
+---
+
+## Objectives
+
+- Deploy and configure a Microsoft 365 tenant
+- Create and manage user accounts
+- Assign and manage Microsoft 365 licenses
+- Configure Microsoft Entra ID identities
+- Administer Microsoft Teams
+- Manage Exchange Online mailboxes
+- Configure SharePoint Online and OneDrive
+- Apply Microsoft 365 security controls
+- Implement Conditional Access policies
+- Manage devices with Microsoft Intune
+- Automate administration using PowerShell
+- Troubleshoot common Microsoft 365 issues
+
+
