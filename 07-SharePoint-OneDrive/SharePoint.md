@@ -205,3 +205,38 @@ Proper sharing policies reduce the risk of unauthorized data access while suppor
 - Organization sharing settings confirmed
 
 ![Sharing-Policy](screenshots/06-Sharing-Policy.png)
+
+---
+
+# Task 7 - Verify OneDrive Access
+
+### Help Desk Ticket
+
+**Ticket:** HD-4007
+
+### Request
+
+A new employee requested confirmation that their OneDrive for Business account was provisioned and ready for storing work documents.
+
+### Actions Performed
+
+- Accessed OneDrive for Business through the Microsoft 365 portal.
+- Verified that the personal OneDrive workspace was successfully provisioned.
+- Created folders for organizing work documents.
+- Confirmed OneDrive was ready for file storage and synchronization.
+
+### Business Value
+
+OneDrive provides employees with secure personal cloud storage, enabling access to work files from multiple devices while supporting backup and synchronization.
+
+### Verification
+
+- OneDrive opened successfully.
+- Personal workspace was provisioned.
+- Folders were created successfully.
+- OneDrive ready for file uploads and synchronization
+
+![onedrive-home](screenshots/07-onedrive-home.png)
+
+---
+
