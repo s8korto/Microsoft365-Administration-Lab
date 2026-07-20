@@ -59,3 +59,30 @@ Team Sites provide departments with a centralized workspace for collaboration, r
 ![Team Site Created](screenshots/01-teams-site-created.png)
 
 ---
+
+# Task 2 - Create a Company Communication Site
+
+### Help Desk Ticket
+
+**Ticket:** HD-4002
+
+### Request
+
+Management requested a Communication Site to publish company news, policy updates, and internal announcements.
+
+### Actions Performed
+
+- Created a Communication Site
+- Configured site information
+- Verified site accessibility
+
+### Business Value
+
+Communication Sites provide employees with a centralized location for organization-wide announcements and important business updates.
+
+### Verification
+
+- Communication Site created successfully
+- Site available to employees
+
+![Communication-Site](screenshots/02-Communication-Site.png)
