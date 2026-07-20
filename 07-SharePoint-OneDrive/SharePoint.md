@@ -56,6 +56,6 @@ Team Sites provide departments with a centralized workspace for collaboration, r
 - Site accessible by authorized users
 - Microsoft 365 Group created automatically
 
-![Team Site Created](screenshots/01-team-site-created.png)
+![Team Site Created](screenshots/01-teams-site-created.png)
 
 ---
