@@ -86,3 +86,34 @@ Communication Sites provide employees with a centralized location for organizati
 - Site available to employees
 
 ![Communication-Site](screenshots/02-Communication-Site.png)
+
+---
+
+# Task 3 - Organise Department Documents
+
+### Help Desk Ticket
+
+**Ticket:** HD-4003
+
+### Request
+
+Department managers requested a structured document library to organize business files for Human Resources, Finance, and IT.
+
+### Actions Performed
+
+- Created department folders
+- Uploaded business documents
+- Verified document availability
+- Confirmed document library structure
+
+### Business Value
+
+Organized document libraries improve collaboration, simplify file management, and reduce time spent searching for information.
+
+### Verification
+
+- Folder structure created successfully
+- Files uploaded successfully
+- Documents accessible to authorized users
+
+![Document-Library](screenshots/03-Document-Library.png)
