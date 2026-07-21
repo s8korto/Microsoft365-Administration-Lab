@@ -85,3 +85,35 @@ Security Defaults automatically enforce Microsoft's recommended identity protect
 
 ---
 
+# Task 3 - Review Multi-Factor Authentication (MFA)
+
+### Help Desk Ticket
+
+**Ticket:** HD-8003
+
+**Request**
+
+The IT Manager requested a review of the authentication methods available to employees to ensure only approved sign-in methods were enabled.
+
+### Actions Performed
+
+- Opened Microsoft Entra Admin Center
+- Navigated to Protection → Authentication methods → Policies
+- Reviewed available authentication methods
+- Verified which methods were enabled for users
+- Confirmed Microsoft Authenticator was available
+
+### Business Value
+
+Reviewing authentication method policies ensures users authenticate using approved methods while reducing the risk of weak or insecure authentication.
+
+### Verification
+
+- Authentication Methods Policies displayed
+- Approved authentication methods reviewed
+- Policy configuration successfully verified
+
+![authentication-method-policies](screenshots/03-authentication-method-policies.png)
+
+
+
