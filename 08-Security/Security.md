@@ -115,5 +115,37 @@ Reviewing authentication method policies ensures users authenticate using approv
 
 ![authentication-method-policies](screenshots/03-authentication-method-policies.png)
 
+---
+
+# Task 4 - Review Sign-in Logs
+
+### Help Desk Ticket
+
+**Ticket:** HD-8004
+
+**Request**
+
+A user reported receiving unexpected Microsoft Authenticator notifications. IT investigated the account for suspicious sign-in activity.
+
+### Actions Performed
+
+- Opened Microsoft Entra Admin Center
+- Reviewed Sign-in Logs
+- Investigated recent authentication attempts
+- Verified sign-in locations and authentication results
+- Confirmed whether suspicious activity existed
+
+### Business Value
+
+Monitoring sign-in activity enables IT to quickly detect suspicious login attempts and respond before accounts are compromised.
+
+### Verification
+
+- Sign-in logs successfully reviewed
+- Authentication history available
+- No unauthorized activity identified
+
+![sign-in-logs](screenshots/04-sign-in-logs.png)
+
 
 
