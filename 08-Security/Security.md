@@ -56,7 +56,7 @@ Secure Score provides measurable recommendations that help organizations reduce 
 
 ---
 
-# Task 2 - Enable Multi-Factor Authentication (MFA)
+# Task 2 - Review Security Defaults
 
 ### Help Desk Ticket
 
@@ -64,25 +64,24 @@ Secure Score provides measurable recommendations that help organizations reduce 
 
 **Request**
 
-The Finance department requested stronger protection for employee accounts following several phishing attempts targeting payroll staff.
+The IT Manager requested verification that Microsoft's recommended baseline security settings were protecting all cloud identities.
 
 ### Actions Performed
 
-- Accessed Microsoft Entra Admin Center
-- Reviewed authentication settings
-- Enabled Multi-Factor Authentication (MFA)
-- Confirmed users were prompted to register an authentication method
+- Opened Microsoft Entra Admin Center
+- Reviewed Security Defaults configuration
+- Confirmed baseline security protections were enabled
 
 ### Business Value
 
-MFA significantly reduces the risk of compromised accounts by requiring an additional verification step beyond a password.
+Security Defaults automatically enforce Microsoft's recommended identity protection settings without requiring complex configuration.
 
 ### Verification
 
-- MFA enabled
-- Users prompted to register authentication methods
-- Authentication policy successfully applied
+- Security Defaults status displayed
+- Baseline protections confirmed
 
 ![security-defaults-enabled](screenshots/02-security-defaults-enabled.png)
 
+---
 
