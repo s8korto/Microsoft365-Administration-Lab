@@ -147,5 +147,38 @@ Monitoring sign-in activity enables IT to quickly detect suspicious login attemp
 
 ![sign-in-logs](screenshots/04-sign-in-logs.png)
 
+---
+
+# Task 5 - Review Email Security Policies
+
+### Help Desk Ticket
+
+**Ticket:** HD-8005
+
+**Request**
+
+Employees reported an increase in phishing emails impersonating company executives. IT was asked to verify existing email protection policies.
+
+### Actions Performed
+
+- Opened Microsoft Defender Portal
+- Reviewed anti-phishing policies
+- Reviewed anti-spam policies
+- Reviewed anti-malware policies
+- Confirmed default protection settings
+
+### Business Value
+
+Email protection policies reduce malicious emails reaching employees, lowering the likelihood of phishing attacks, malware infections, and business email compromise.
+
+### Verification
+
+- Protection policies displayed
+- Default policies enabled
+- Email security settings successfully reviewed
+
+![email-security-policies](screenshots/05-email-security-policies.png)
+
+
 
 
