@@ -54,4 +54,35 @@ Secure Score provides measurable recommendations that help organizations reduce 
 
 ![secure-score-dashboard](screenshots/01-secure-score-dashboard.png)
 
+---
+
+# Task 2 - Enable Multi-Factor Authentication (MFA)
+
+### Help Desk Ticket
+
+**Ticket:** HD-8002
+
+**Request**
+
+The Finance department requested stronger protection for employee accounts following several phishing attempts targeting payroll staff.
+
+### Actions Performed
+
+- Accessed Microsoft Entra Admin Center
+- Reviewed authentication settings
+- Enabled Multi-Factor Authentication (MFA)
+- Confirmed users were prompted to register an authentication method
+
+### Business Value
+
+MFA significantly reduces the risk of compromised accounts by requiring an additional verification step beyond a password.
+
+### Verification
+
+- MFA enabled
+- Users prompted to register authentication methods
+- Authentication policy successfully applied
+
+![security-defaults-enabled](screenshots/02-security-defaults-enabled.png)
+
 
