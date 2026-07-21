@@ -22,4 +22,36 @@ The company recently experienced an increase in phishing emails targeting employ
 - Verify administrator security settings
 - Improve the organization's overall security posture
 
+---
+
+# Task 1 - Review Microsoft Secure Score
+
+### Help Desk Ticket
+
+**Ticket:** HD-8001
+
+**Request**
+
+Management requested an assessment of the company's Microsoft 365 security posture and recommendations for improving protection against cyber threats.
+
+### Actions Performed
+
+- Opened Microsoft Defender Portal
+- Reviewed the Microsoft Secure Score dashboard
+- Identified recommended security improvements
+- Recorded the current Secure Score
+- Reviewed high-impact security recommendations
+
+### Business Value
+
+Secure Score provides measurable recommendations that help organizations reduce security risks and prioritize improvements based on Microsoft's security best practices.
+
+### Verification
+
+- Secure Score dashboard displayed
+- Improvement actions available
+- Security recommendations successfully reviewed
+
+![secure-score-dashboard](screenshots/01-secure-score-dashboard.png)
+
 
