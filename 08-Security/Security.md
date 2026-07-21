@@ -241,6 +241,17 @@ Verifying security configurations ensures implemented controls remain operationa
 
 ![security-verification](screenshots/07-security-verification.png)
 
+---
+
+## Key Takeaways
+
+- Reviewed the organisation's Microsoft Secure Score to assess its overall security posture and identify recommended improvements.
+- Configured Security Defaults to enforce Microsoft's baseline identity protection and Multi-Factor Authentication (MFA).
+- Reviewed Authentication Method Policies to verify approved sign-in methods available to users.
+- Examined email protection policies within Microsoft Defender to understand how Microsoft 365 protects against phishing, spam, and malware.
+- Reviewed administrator roles to ensure privileged access followed the principle of least privilege.
+- Verified security configurations after implementation to confirm policies were active and functioning as expected.
+
 
 
 
