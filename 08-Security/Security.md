@@ -209,6 +209,38 @@ Applying the principle of least privilege reduces the risk of unauthorized admin
 
 ![admin-roles](screenshots/06-admin-roles.png)
 
+---
+
+# Task 7 - Verify Security Configuration
+
+### Help Desk Ticket
+
+**Ticket:** HD-8007
+
+**Request**
+
+Following the quarterly security review, IT was asked to verify that all recommended security improvements had been successfully implemented.
+
+### Actions Performed
+
+- Reviewed Microsoft Secure Score
+- Verified MFA configuration
+- Confirmed Security Defaults
+- Reviewed administrator assignments
+- Verified security policies remained active
+
+### Business Value
+
+Verifying security configurations ensures implemented controls remain operational and continue protecting organizational resources against evolving threats.
+
+### Verification
+
+- Security controls confirmed
+- Configuration changes successfully validated
+- Security review completed
+
+![security-verification](screenshots/07-security-verification.png)
+
 
 
 
