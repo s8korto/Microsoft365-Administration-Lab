@@ -12,5 +12,14 @@ The company recently experienced an increase in phishing emails targeting employ
 
 ---
 
+## Business Requirement
+
+- Enable Multi-Factor Authentication (MFA) for users
+- Review Microsoft Secure Score recommendations
+- Configure Security Defaults
+- Monitor risky sign-in activity
+- Review email protection policies
+- Verify administrator security settings
+- Improve the organization's overall security posture
 
 
