@@ -256,7 +256,11 @@ Verifying security configurations ensures implemented controls remain operationa
 
 # Summary
 
-This lab demonstrated the implementation and verification of essential Microsoft 365 security controls used to protect organizational identities, email, and administrative access. By reviewing Secure Score, enabling Security Defaults, managing authentication methods, examining email security policies, and auditing administrator roles, the environment was aligned with Microsoft's recommended security best practices. These tasks reflect real-world responsibilities commonly performed by IT support technicians and Microsoft 365 administrators to reduce security risks and strengthen an organization's cloud security posture.
+This lab demonstrated the implementation and verification of essential Microsoft 365 security controls used to protect organisational identities, email, and administrative access.
+
+By reviewing Secure Score, enabling Security Defaults, managing authentication methods, examining email security policies, and auditing administrator roles, the environment was aligned with Microsoft's recommended security best practices. 
+ 
+These tasks reflect real-world responsibilities commonly performed by IT support technicians and Microsoft 365 administrators to reduce security risks and strengthen an organisation's cloud security posture.
 
 
 
