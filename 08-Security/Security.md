@@ -179,6 +179,37 @@ Email protection policies reduce malicious emails reaching employees, lowering t
 
 ![email-security-policies](screenshots/05-email-security-policies.png)
 
+---
+
+# Task 6 - Review Administrator Roles
+
+### Help Desk Ticket
+
+**Ticket:** HD-8006
+
+**Request**
+
+As part of an internal audit, management requested verification that only authorized personnel possessed Global Administrator privileges.
+
+### Actions Performed
+
+- Opened Microsoft 365 Admin Center
+- Reviewed administrator role assignments
+- Verified Global Administrator accounts
+- Confirmed privileged access aligned with business requirements
+
+### Business Value
+
+Applying the principle of least privilege reduces the risk of unauthorized administrative changes and limits the impact of compromised privileged accounts.
+
+### Verification
+
+- Administrator roles displayed
+- Privileged accounts successfully reviewed
+
+![admin-roles](screenshots/06-admin-roles.png)
+
+
 
 
 
