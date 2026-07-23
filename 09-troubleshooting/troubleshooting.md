@@ -156,3 +156,35 @@ Proper permission management ensures employees can collaborate securely while pr
 
 ![sharepoint-permissions](screenshots/04-sharepoint-permissions.png)
 
+---
+
+# Task 5 - User Missing Microsoft 365 License
+
+### Help Desk Ticket
+
+**Ticket:** HD-3005
+
+**Request**
+
+A newly hired employee could sign in to Microsoft 365 but could not access Outlook, Teams, or OneDrive.
+
+### Actions Performed
+
+- Reviewed assigned licenses.
+- Confirmed no Microsoft 365 license had been assigned.
+- Assigned the appropriate Business Premium license.
+- Waited for license provisioning.
+- Verified Microsoft 365 services became available.
+
+### Business Value
+
+Assigning the correct license enables employees to access productivity applications immediately after onboarding.
+
+### Verification
+
+- License assigned successfully.
+- Outlook mailbox created.
+- Teams and OneDrive became available.
+
+![license-assigned](screenshots/05-license-assigned.png)
+
