@@ -25,3 +25,36 @@ The IT Help Desk was responsible for investigating each incident, identifying th
 
 ---
 
+# Task 1 - User Unable to Sign In
+
+### Help Desk Ticket
+
+**Ticket:** HD-3001
+
+**Request**
+
+A finance employee reported that they were unable to sign in to Microsoft 365 despite entering the correct password. The employee needed immediate access to Outlook and Teams before an important client meeting.
+
+| Name | Department | Job Title |
+|-------|------------|-----------|
+| Ava Baker | Finance | Accounts Payable Officer |
+
+### Actions Performed
+
+- Verified the user account existed in Microsoft Entra ID.
+- Confirmed the account was not blocked or disabled.
+- Reviewed recent sign-in activity.
+- Reset the user's password.
+- Confirmed successful login after the password reset.
+
+### Business Value
+
+Restoring account access quickly minimizes downtime and ensures employees can continue performing business-critical tasks.
+
+### Verification
+
+- User successfully signed in.
+- Outlook mailbox accessible.
+- Microsoft Teams opened successfully.
+
+![signin-success](screenshots/01-signin-success.png)
