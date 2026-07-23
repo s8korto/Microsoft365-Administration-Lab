@@ -126,3 +126,33 @@ Resolving authentication issues restores communication between remote employees 
 
 ![teams-login](screenshots/03-teams-login.png)
 
+---
+
+# Task 4 - SharePoint Access Denied
+
+### Help Desk Ticket
+
+**Ticket:** HD-3004
+
+**Request**
+
+An IT technician received an **Access Denied** error when attempting to open the IT SharePoint site.
+
+### Actions Performed
+
+- Reviewed SharePoint site permissions.
+- Confirmed the user was missing from the Members group.
+- Added the appropriate permissions.
+- Verified access after permission changes.
+
+### Business Value
+
+Proper permission management ensures employees can collaborate securely while preventing unauthorized access.
+
+### Verification
+
+- User accessed the SharePoint site successfully.
+- Documents opened without errors.
+
+![sharepoint-permissions](screenshots/04-sharepoint-permissions.png)
+
