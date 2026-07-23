@@ -58,3 +58,35 @@ Restoring account access quickly minimizes downtime and ensures employees can co
 - Microsoft Teams opened successfully.
 
 ![signin-success](screenshots/01-signin-success.png)
+
+---
+
+# Task 2 - User Not Receiving Email
+
+### Help Desk Ticket
+
+**Ticket:** HD-3002
+
+**Request**
+
+A sales employee reported that customers were sending emails, but nothing was appearing in their inbox.
+
+### Actions Performed
+
+- Verified the mailbox status in Exchange Admin Center.
+- Confirmed a Microsoft 365 license was assigned.
+- Reviewed Message Trace.
+- Checked for mailbox rules.
+- Confirmed mail flow resumed normally.
+
+### Business Value
+
+Email outages can delay customer communication, resulting in lost business opportunities and reduced customer satisfaction.
+
+### Verification
+
+- Test email delivered successfully.
+- Message Trace showed successful delivery.
+- User confirmed emails were received.
+
+![message-trace](screenshots/02-message-trace.png)
