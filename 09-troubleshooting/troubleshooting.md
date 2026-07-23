@@ -90,3 +90,39 @@ Email outages can delay customer communication, resulting in lost business oppor
 - User confirmed emails were received.
 
 ![message-trace](screenshots/02-message-trace.png)
+
+---
+
+# Task 3 - Microsoft Teams Sign-in Issue
+
+### Help Desk Ticket
+
+**Ticket:** HD-3003
+
+**Request**
+
+A remote employee could not sign in to Microsoft Teams after changing their password earlier in the day.
+
+| Name | Department | Job Title |
+|-------|------------|-----------|
+| Michael Wilson | Sales | Sale Executive |
+
+### Actions Performed
+
+- Verified the Microsoft 365 account status.
+- Confirmed Microsoft Teams service was operational.
+- Signed the user out of all active sessions.
+- Cleared stale authentication sessions.
+- Verified Microsoft Teams authenticated successfully.
+
+### Business Value
+
+Resolving authentication issues restores communication between remote employees and reduces disruption to meetings and collaboration.
+
+### Verification
+
+- User successfully logged into Microsoft Teams.
+- Chat and meetings were accessible.
+
+![teams-login](screenshots/03-teams-login.png)
+
