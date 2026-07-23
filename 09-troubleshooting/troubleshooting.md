@@ -14,3 +14,14 @@ The IT Help Desk was responsible for investigating each incident, identifying th
 
 ---
 
+## Business Requirement
+
+- Resolve user authentication issues
+- Restore access to Exchange Online mailboxes
+- Fix Microsoft Teams sign-in problems
+- Resolve SharePoint permission issues
+- Verify services were fully restored
+- Document resolutions to improve future incident response
+
+---
+
