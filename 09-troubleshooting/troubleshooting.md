@@ -188,3 +188,12 @@ Assigning the correct license enables employees to access productivity applicati
 
 ![license-assigned](screenshots/05-license-assigned.png)
 
+---
+
+## Key Takeaways
+
+- Investigated common Microsoft 365 support incidents using multiple administration portals.
+- Verified user identities, licensing, mailbox health, and service availability before implementing solutions.
+- Restored access to Exchange Online, Microsoft Teams, and SharePoint with minimal disruption.
+- Applied a structured troubleshooting methodology by identifying symptoms, validating root causes, implementing fixes, and confirming successful recovery.
+
