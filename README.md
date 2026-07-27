@@ -107,3 +107,11 @@ Administered Exchange Online mailboxes, configured mail flow settings, managed r
 Explored SharePoint Online sites and OneDrive administration, managed permissions, reviewed storage settings, and gained experience with Microsoft 365 file collaboration.
 
 ![SharePoint & OneDrive](07-SharePoint-OneDrive/screenshots/08-SharePoint-Storage.png)
+
+---
+
+### Security
+
+Explored Microsoft 365 security features including Microsoft Defender, Secure Score, Multi-Factor Authentication (MFA), and security recommendations to improve organizational protection.
+
+![Security](08-Security/screenshots/01-security-score-dashboard.png)
