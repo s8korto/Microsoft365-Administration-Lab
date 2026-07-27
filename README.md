@@ -4,6 +4,8 @@ A hands-on Microsoft 365 Administration project that simulates the day-to-day re
 
 The objective is to demonstrate practical administration skills across Microsoft 365 services including Microsoft Entra ID, Exchange Online, Microsoft Teams, SharePoint Online, OneDrive, and Security.
 
+![Microsoft-Diagram](10-Microsoft-Diagram/ArchitectureDiagram.png)
+
 ---
 
 ## Objectives
