@@ -115,3 +115,11 @@ Explored SharePoint Online sites and OneDrive administration, managed permission
 Explored Microsoft 365 security features including Microsoft Defender, Secure Score, Multi-Factor Authentication (MFA), and security recommendations to improve organizational protection.
 
 ![Security](08-Security/screenshots/01-secure-score-dashboard.png)
+
+---
+
+### Troubleshooting
+
+Resolved common Microsoft 365 administration issues including licensing problems, user access issues, mailbox configuration, and identity-related troubleshooting.
+
+![Troubleshooting](09-troubleshooting/screenshots/01-signin-success.png)
