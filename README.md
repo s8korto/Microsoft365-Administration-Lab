@@ -91,3 +91,11 @@ Managed identities using Microsoft Entra ID, explored users, groups, and adminis
 Configured Microsoft Teams settings, created teams and channels, managed members, and explored collaboration and communication features.
 
 ![Microsoft Teams](05-Microsoft-Teams/screenshots/01-teams-created.png)
+
+---
+
+### Exchange Online
+
+Administered Exchange Online mailboxes, configured mail flow settings, managed recipients, and explored message trace and email administration features.
+
+![Exchange Online](06-Exchange-Online/screenshots/01-Mailboxes-Overview.png)
