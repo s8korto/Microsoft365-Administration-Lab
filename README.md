@@ -75,3 +75,11 @@ Created and managed Microsoft 365 user accounts, assigned administrative roles, 
 Assigned and managed Microsoft 365 licenses, monitored license availability, and ensured users received the correct Microsoft services based on their assigned licenses.
 
 ![License Management](03-License-Management/screenshots/01-view-licenses.png)
+
+--- 
+
+### Microsoft Entra ID
+
+Managed identities using Microsoft Entra ID, explored users, groups, and administrative roles, and gained experience with cloud-based identity and access management.
+
+![Microsoft Entra ID](04-Microsoft-Entra-ID/screenshots/01-Review-Users.png)
