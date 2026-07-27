@@ -67,3 +67,11 @@ Configured a Microsoft 365 tenant, verified organizational settings, and explore
 Created and managed Microsoft 365 user accounts, assigned administrative roles, reset passwords, and updated user profile information through the Microsoft 365 Admin Center.
 
 ![User Management](02-User-Management/screenshots/01-user-provision.png)
+
+--- 
+
+### License Management
+
+Assigned and managed Microsoft 365 licenses, monitored license availability, and ensured users received the correct Microsoft services based on their assigned licenses.
+
+![License Management](03-License-Management/screenshots/01-view-licenses.png)
