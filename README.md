@@ -123,3 +123,11 @@ Explored Microsoft 365 security features including Microsoft Defender, Secure Sc
 Resolved common Microsoft 365 administration issues including licensing problems, user access issues, mailbox configuration, and identity-related troubleshooting.
 
 ![Troubleshooting](09-troubleshooting/screenshots/01-signin-success.png)
+
+---
+
+### Microsoft 365 Architecture
+
+Designed a Microsoft 365 architecture diagram illustrating how core services including Microsoft Entra ID, Exchange Online, Microsoft Teams, SharePoint Online, and OneDrive integrate within a cloud environment.
+
+![Architecture Diagram](10-Microsoft-Diagram/ArchitectureDiagram.png)
