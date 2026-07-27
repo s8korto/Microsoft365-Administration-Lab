@@ -58,4 +58,4 @@ The objective is to demonstrate practical administration skills across Microsoft
 
 Configured a Microsoft 365 tenant, verified organizational settings, and explored the Microsoft 365 Admin Center to establish the cloud administration environment.
 
-![Tenant Setup](01-Tenant-Setup/screenshots/tenant-dashboard.png)
+![Tenant Setup](01-Tenant-Setup/screenshots/01-tenant-dashboard.png)
