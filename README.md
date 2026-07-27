@@ -1,8 +1,8 @@
 # Microsoft 365 Administration Lab
 
-A hands-on Microsoft 365 Administration project that simulates the day-to-day responsibilities of an IT Support Engineer, Microsoft 365 Administrator, or Systems Administrator.
+A hands-on Microsoft 365 Administration project that simulates the day-to-day responsibilities of an IT Support, Microsoft 365 Administrator, or Systems Administrator.
 
-The objective is to demonstrate practical administration skills across Microsoft 365 services including Microsoft Entra ID, Exchange Online, Microsoft Teams, SharePoint Online, OneDrive, Intune, and Security.
+The objective is to demonstrate practical administration skills across Microsoft 365 services including Microsoft Entra ID, Exchange Online, Microsoft Teams, SharePoint Online, OneDrive, and Security.
 
 ---
 
@@ -17,8 +17,6 @@ The objective is to demonstrate practical administration skills across Microsoft
 - Configure SharePoint Online and OneDrive
 - Apply Microsoft 365 security controls
 - Implement Conditional Access policies
-- Manage devices with Microsoft Intune
-- Automate administration using PowerShell
 - Troubleshoot common Microsoft 365 issues
 
 ---
@@ -27,13 +25,11 @@ The objective is to demonstrate practical administration skills across Microsoft
 
 | Component | Details |
 |----------|---------|
-| **Platform** | Microsoft 365 Business Premium |
+| **Platform** | Microsoft 365 Business |
 | **Identity** | Microsoft Entra ID |
 | **Email** | Exchange Online |
 | **Collaboration** | Microsoft Teams |
 | **Storage** | SharePoint Online & OneDrive |
-| **Device Management** | Microsoft Intune |
-| **Automation** | Microsoft Graph PowerShell |
 
 ---
 
