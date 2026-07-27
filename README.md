@@ -83,3 +83,11 @@ Assigned and managed Microsoft 365 licenses, monitored license availability, and
 Managed identities using Microsoft Entra ID, explored users, groups, and administrative roles, and gained experience with cloud-based identity and access management.
 
 ![Microsoft Entra ID](04-Microsoft-Entra-ID/screenshots/01-Review-Users.png)
+
+--- 
+
+### Microsoft Teams
+
+Configured Microsoft Teams settings, created teams and channels, managed members, and explored collaboration and communication features.
+
+![Microsoft Teams](05-Microsoft-Teams/screenshots/01-teams-created.png)
