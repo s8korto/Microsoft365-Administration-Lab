@@ -99,3 +99,11 @@ Configured Microsoft Teams settings, created teams and channels, managed members
 Administered Exchange Online mailboxes, configured mail flow settings, managed recipients, and explored message trace and email administration features.
 
 ![Exchange Online](06-Exchange-Online/screenshots/01-Mailboxes-Overview.png)
+
+---
+
+### SharePoint & OneDrive
+
+Explored SharePoint Online sites and OneDrive administration, managed permissions, reviewed storage settings, and gained experience with Microsoft 365 file collaboration.
+
+![SharePoint & OneDrive](07-SharePoint-OneDrive/screenshots/08-SharePoint-Storage.png)
